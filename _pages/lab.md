@@ -3,8 +3,13 @@ title: "Spencer Lab - People"
 layout: gridlay
 excerpt: "Spencer Lab: Current members"
 sitemap: false
-permalink: /people/
+permalink: /lab/
 ---
+
+The Spencer Lab is in the [Section of Stem Cell Biology]() in the [Division
+of Oncology](https://oncology.wustl.edu/) in the
+[Department of Medine](https://internalmedicine.wustl.edu/). We are
+located on the 6th floor of the Southwest Tower. 
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
