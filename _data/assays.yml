@@ -1,0 +1,8 @@
+- name: ChromoSeq
+  image: chromoseq.png
+  description: Streamlined whole-genome sequencing for diagnosis and treatment of cancer.
+  link:
+    url: https://pathologyservices.wustl.edu/services-tests/chromoseq/
+    display: ChromoSeq ordering information
+  highlight: 1
+  

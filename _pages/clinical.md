@@ -1,14 +1,18 @@
 ---
-title: "Spencer Lab - Research"
+title: "Spencer Lab - Clinical Genomics"
 layout: textlay
-excerpt: "Spencer Lab -- Research"
+excerpt: "Spencer Lab -- Clinical Genomics"
 sitemap: false
-permalink: /research/
+permalink: /clinical/
 ---
 
-# Research
+# Clinical Genomics
 
-Our overarching goal is 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+Dr. Spencer is Medical Director of the [McDonnell Genome Institute](https://genome.wustl.edu)'s
+CLIA Licensed Environment (MGI-CLE), a CLIA-licensed, CAP-accredited clinical
+sequencing laboratory. Dr. Spencer and his colleagues in the MGI-CLE
+and the
+[Department of Pathology and Immunology](https://pathology.wustl.edu/)
+have developed and implemented multiple advanced clinical
+sequencing assays for both translational research and patient care.
 
-### ... and more.

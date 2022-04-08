@@ -6,12 +6,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
-## Group highlights
+## Recent papers
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=rU851-MAAAAJ&hl=en), [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/david.spencer.1/bibliography/public/))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -53,9 +52,8 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>Eric J Duncavage, David H Spencerk</em><br />A streamlined
+whole-genome sequencing approach for genetic profiling of cancer. (Pending) (2021)
 
 ## Full List of publications
 

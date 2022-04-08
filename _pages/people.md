@@ -3,11 +3,10 @@ title: "Spencer Lab - People"
 layout: gridlay
 excerpt: "Spencer Lab: Current members"
 sitemap: false
-permalink: /team/
+permalink: /people/
 ---
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 
 ## Current members
 {% assign number_printed = 0 %}

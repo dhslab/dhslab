@@ -3,7 +3,7 @@ title: "Spencer Lab - Research"
 layout: textlay
 excerpt: "Spencer Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: /science/
 ---
 
 # Research
