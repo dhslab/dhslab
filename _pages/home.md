@@ -11,5 +11,5 @@ We are a basic science and translational research group at [Washington Universit
 **We are  looking for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nci.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nci.png" style="width: 210px">
 </figure>
