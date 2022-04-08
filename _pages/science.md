@@ -1,14 +1,14 @@
 ---
-title: "Spencer Lab - Research"
+title: "Spencer Lab - Science"
 layout: textlay
-excerpt: "Spencer Lab -- Research"
+excerpt: "Spencer Lab -- Science"
 sitemap: false
 permalink: /science/
 ---
 
-# Research
+# Science
 
-Our overarching goal is 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
-### ... and more.
+###The goal of our research is to understand the human genome
+and how mutations and epigenetic changes alter its normal
+functions to cause disease. We are specifically focused on acute
+myeloid leukemia.
