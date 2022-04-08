@@ -52,7 +52,7 @@ permalink: /publications/
 
 
 ## Patents
-<em>Eric J Duncavage, David H Spencerk</em><br />A streamlined
+<em>Eric J Duncavage, David H Spencer</em><br />A streamlined
 whole-genome sequencing approach for genetic profiling of cancer. (Pending) (2021)
 
 ## Full List of publications
