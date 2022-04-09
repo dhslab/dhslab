@@ -13,7 +13,7 @@ located on the 6th floor of the Southwest Tower.
 
  **We are  looking for new PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
 
-## Current members
+### Current members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -79,7 +79,7 @@ located on the 6th floor of the Southwest Tower.
 </div>
 {% endif %}
 
-## Alumni
+### Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
