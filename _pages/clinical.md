@@ -28,7 +28,7 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
--  ![chromoseq](/images/respic/chromoseq.png){:height="150px" class="img-responsive" style="float: left"} **ChromoSeq:** Streamlined
+ ![chromoseq](/images/respic/chromoseq.png){:height="150px" class="img-responsive" style="float: left"} **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive
    genomic profiling of acute myeloid leukemia (AML) and
@@ -40,14 +40,16 @@ incorporate NGS testing into their research and/or clinical practice.
    accurate, and accessible genetic testing of tumors. It is currently
    being performed on all new AML patients at [Barnes-Jewish Hospital](https://www.barnesjewish.org/).
 
-- **MyeloSeq:** Error-corrected targeted sequencing for diagnosis and molecular monitoring of patients with myeloid malignancies. This assay
+
+**MyeloSeq:** Error-corrected targeted sequencing for diagnosis and molecular monitoring of patients with myeloid malignancies. This assay
   uses Agilent's HaloplexHS unique molecular identifier (UMI)-based amplicon system to sequence 48 genes that are recurrently mutated in
   AML, MDS, and MPN. High coverage sequencing, error-correction, and
   custom analysis is performed using approaches developed by Eric
   Duncavage, Haley Abel, and David Spencer and is coded in WDL and
   executed via Cromwell.
 
-- ![amlclearance](/images/respic/amlclearance.png){:height="150px" class="img-responsive" style="float: left"} **AML Clearance Exome Sequencing:** This assay uses deep exome
+
+ ![amlclearance](/images/respic/amlclearance.png){:height="150px" class="img-responsive" style="float: left"} **AML Clearance Exome Sequencing:** This assay uses deep exome
   sequencing to identify dozens of mutations in the leukemia cells of
   AML patients at diagnosis, and then test whether these
   patient-specific mutations are present in exome sequencing data from
@@ -59,13 +61,15 @@ incorporate NGS testing into their research and/or clinical practice.
   clinical trial to determine whether molecular monitoring using this
   approach can improve outcomes for AML patients [(NCT02756962)](https://clinicaltrials.gov/ct2/show/NCT02756962).
 
-- **Tumor/Normal Exome Sequencing:** Paired exome
+
+ **Tumor/Normal Exome Sequencing:** Paired exome
   sequencing of tumor DNA and normal DNA from the same patient to
   identify somatic mutations. Analysis uses a custom ensemble pipeline
   encoded in CWL and executed with the Cromwell engine. This assay can be performed on any
   tumor type or specimen and is used to identify somatic mutations for
   translational studies using somatic mutations to manufacture
   patient-specific tumor vaccines.
+
 
 - **Exome Sequencing (technical sequencing only):** This assay uses
   hybrid-capture with a custom version of the IDT xGen Exome
