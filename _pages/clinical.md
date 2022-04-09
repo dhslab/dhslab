@@ -28,7 +28,7 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
- ![chromoseq](/images/respic/chromoseq.png){:height="150px" class="img-responsive" style="float: left"} **ChromoSeq:** Streamlined
+ ![chromoseq](/images/respic/chromoseq.png){:height="150px" class="img-responsive" style="float: right"} **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive
    genomic profiling of acute myeloid leukemia (AML) and
@@ -49,7 +49,7 @@ incorporate NGS testing into their research and/or clinical practice.
   executed via Cromwell.
 
 
- ![amlclearance](/images/respic/amlclearance.png){:height="150px" class="img-responsive" style="float: left"} **AML Clearance Exome Sequencing:** This assay uses deep exome
+ ![amlclearance](/images/respic/amlclearance.png){:height="150px" class="img-responsive" style="float: right"} **AML Clearance Exome Sequencing:** This assay uses deep exome
   sequencing to identify dozens of mutations in the leukemia cells of
   AML patients at diagnosis, and then test whether these
   patient-specific mutations are present in exome sequencing data from
