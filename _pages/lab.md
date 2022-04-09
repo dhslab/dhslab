@@ -1,11 +1,12 @@
 ---
-title: "Spencer Lab - People"
+title: "Spencer Lab Overview"
 layout: gridlay
-excerpt: "Spencer Lab: Current members"
+excerpt: "Spencer Lab Overview"
 sitemap: false
 permalink: /lab/
 ---
 
+## 
 The Spencer Lab is in the [Section of Stem Cell Biology]() in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
 [Department of Medine](https://internalmedicine.wustl.edu/). We are

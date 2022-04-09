@@ -20,26 +20,26 @@ been involved with are listed below.
 
 Courses and seminars:
 
--[Genomics of Human Disease](http://pmpathway.wustl.edu/class-information-2021/)
--[Genomics in Medicine Seminar series](https://crtc.wustl.edu/resources/workshops-seminars/genomics-medicine-seminar/)
+*[Genomics of Human Disease](http://pmpathway.wustl.edu/class-information-2021/)
+*[Genomics in Medicine Seminar series](https://crtc.wustl.edu/resources/workshops-seminars/genomics-medicine-seminar/)
 
 DBBS PhD Programs, Pathways, and Courses:
 
--[Cancer Biology](https://dbbs.wustl.edu/divprograms/cancerbiology/Pages/default.aspx)
--[Molecular Genetics and Genomics](https://dbbs.wustl.edu/divprograms/genetics/Pages/default.aspx)
--[Developmental, Regenerative and Stem Cell Biology](https://dbbs.wustl.edu/divprograms/devbio/Pages/default.aspx)
--[Computational and Systems Biology](https://dbbs.wustl.edu/divprograms/compbio/Pages/default.aspx)
--[The Precision Medicine Pathway](http://dbbs.wustl.edu/curstudents/SpecialEmphasisPathways/Pages/precisionmedicine.aspx)
+*[Cancer Biology](https://dbbs.wustl.edu/divprograms/cancerbiology/Pages/default.aspx)
+*[Molecular Genetics and Genomics](https://dbbs.wustl.edu/divprograms/genetics/Pages/default.aspx)
+*[Developmental, Regenerative and Stem Cell Biology](https://dbbs.wustl.edu/divprograms/devbio/Pages/default.aspx)
+*[Computational and Systems Biology](https://dbbs.wustl.edu/divprograms/compbio/Pages/default.aspx)
+*[The Precision Medicine Pathway](http://dbbs.wustl.edu/curstudents/SpecialEmphasisPathways/Pages/precisionmedicine.aspx)
 
 Clinical training programs at Wash U:
 
--[Clinical Pathology residency](https://pathology.wustl.edu/training/training/residency/clinical-pathology-residency/)
--[Molecular Genetic Pathology Fellowship](https://pathology.wustl.edu/training/training/clinical-fellowships/molecular-genetic-pathology-fellowship/)
--[Laboratory Genetics and Genomics Fellowship](https://pathology.wustl.edu/training/training/clinical-fellowships/laboratory-genetics-and-genomics-fellowship/)
--[Hematology-Oncology Fellowship](https://hemeoncfellowship.wustl.edu/)
--[Clinician-Scientist Training and Research (C–STAR) Program](https://internalmedicineresidency.wustl.edu/educational-opportunities/c-star/)
+*[Clinical Pathology residency](https://pathology.wustl.edu/training/training/residency/clinical-pathology-residency/)
+*[Molecular Genetic Pathology Fellowship](https://pathology.wustl.edu/training/training/clinical-fellowships/molecular-genetic-pathology-fellowship/)
+*[Laboratory Genetics and Genomics Fellowship](https://pathology.wustl.edu/training/training/clinical-fellowships/laboratory-genetics-and-genomics-fellowship/)
+*[Hematology-Oncology Fellowship](https://hemeoncfellowship.wustl.edu/)
+*[Clinician-Scientist Training and Research (C–STAR) Program](https://internalmedicineresidency.wustl.edu/educational-opportunities/c-star/)
 
 Undergraduate research programs:
 
--[Wash U MARC U-STAR](https://sites.wustl.edu/marcustar/)
+*[Wash U MARC U-STAR](https://sites.wustl.edu/marcustar/)
 
