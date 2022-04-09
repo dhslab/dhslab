@@ -10,16 +10,51 @@ permalink: /lab/
 
 The Spencer Lab is in the Section of Stem Cell Biology in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
-[Department of Medine](https://internalmedicine.wustl.edu/). The lab
-is located on the 6th floor of the Southwest Tower in the Wash
+[Department of Medine](https://internalmedicine.wustl.edu/) at
+[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ![cap](/images/logopic/wusm.png){:width="75px"}
+The lab is located on the 6th floor of the Southwest Tower in the Wash
 U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri.
 
-Our group specializes in cancer genetics, genomics, and epigenetics
-and is specifically focsed on acute myeloid leukemia (AML), a
+**Our group specializes in cancer genetics, genomics, and
+epigenetics.** We are specifically focused on acute myeloid leukemia
+(AML), ![AML blasts](/images/aml.png){:width="75px" style="float:right"} a
 devastating cancer that affects children and adults. Despite major
 advances in the molecular understanding of this disease, current
 therapies have changed little over the past 30 years. We aim to
-understand 
+understand how mutations and epigenetic changes alter the structure
+and function of the genome in ways that contribute to AML development, progression,
+and relapse.
+
+**Research in the Spencer lab is a combination of experimental and
+  computational science with a common theme of genomics.** We
+  have specific expertise in DNA methylation, 3D genome architecture, and
+  HOX gene expression and regulation, although we are broadly interested in
+  epigenetics and gene regulation.![Human Genome](/images/respic/humangenome.jpg){:width="75px" style="float:right"} To study these topics we use a range of experimental systems and techniques, including:
+  * Whole-exome sequencing, whole-genome sequencing, error-corrected
+    amplicon sequencing
+  * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
+  * ChIP-seq, RNA-seq, ATAC-seq
+  * whole-genome bisulfite sequencing
+  * CUT&Run, CUT&Tag
+  * in situ HiC, capture-C, HiChIP, PLAC-seq
+  * CRISPR/Cas9 genome editing, CRISPRi epigenetic editing
+  * CRE-seq massively parallel reporter assays
+  * Single cell technologies
+  * Human cell lines
+  * Human pluripotent stem cells, including NIH-approved embryonic
+  stem cells and induced pluripotent stem (iPS) cells.
+  * Primary human AML samples
+  * Mouse models
+
+We have direct access to high-throughput sequencers and cutting edge
+genomic methods at the McDonnell Genome Institute via David's role as
+Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicate compute cluster using
+analysis pipelines that we developed and implemented for our
+research. 
+
+**Although we are interested in fundamental basic research
+questions, our overall goal is to understand the genomics of human
+disease to improve patient outcomes.**
 
  **We are  looking for new PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
 
