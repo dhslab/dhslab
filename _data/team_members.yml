@@ -7,7 +7,7 @@
   education2: MD and PhD (MSTP), University of Washington, Seattle
   education3: Clinical Pathology and Molecular Genetic Patholog, Washington University in St. Louis
   education4: Assistant Professor of Medicine and Pathology and Immunology
-  education5: Medical Director, McDonnell Genome Institute CLE Lab
+  education5: Medical Director, McDonnell Genome Institute Clinical Sequencing Lab
 
 - name: Heidi Struthers
   photo: 
@@ -18,7 +18,7 @@
 
 - name: Reza Ghasemi, PhD
   photo: reza.JPG
-  info: Staff Scientist, CRISPR and HiC guru
+  info: Staff Scientist, CRISPR and HiC expert
   email: 
   number_educ: 3
   education1: Medical Genetics in Iran
@@ -27,7 +27,7 @@
 
 - name: Ellie Wilson
   photo: ellie.JPG
-  info: Graduate student, DNA methylation expert
+  info: Graduate student, DNA methylation and lab food guru
   email: 
   number_educ: 2
   education1: BA in Biology, Carleton College, Northfield, MN
@@ -35,7 +35,7 @@
 
 - name: Alex Miller
   photo: 
-  info: Bioinformatics scientist, Texan
+  info: Bioinformatics Research Assistant, Texan
   email: 
   number_educ: 2
   education1: BS in Economics, University of Houston, Houston, TX
@@ -43,7 +43,7 @@
 
 - name: Feiyu Du
   photo: 
-  info: Bioinformatics scientist, Texan
+  info: CLIA Bioinformatics scientist, Genomics expert
   email: 
   number_educ: 3
   education1: BS in Biology and MS in Microbiology, Wuhan University, Wuhan, China
@@ -52,6 +52,14 @@
 - name: Charles Lu
   photo: 
   info: Wash U Undergraduate student
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Henry Wong
+  photo: 
+  info: MS&T Master's student, summer intern
   email: 
   number_educ: 0
   education1: 
