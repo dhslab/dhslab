@@ -8,10 +8,10 @@ permalink: /clinical/
 
 ## Clinical Genomics
 
-David Spencer is a board-certified Molecular Pathologist and is
+**David Spencer is a board-certified Molecular Pathologist and is
 Medical Director of the
 [McDonnell Genome Institute](https://genome.wustl.edu)'s CLIA Licensed Environment (MGI-CLE), a CLIA-licensed, CAP-accredited clinical
-sequencing laboratory. Dr. Spencer and his colleagues in the MGI-CLE
+sequencing laboratory.** Dr. Spencer and his colleagues in the MGI-CLE
 and the
 [Department of Pathology and Immunology](https://pathology.wustl.edu/)
 have developed and implemented multiple advanced clinical
@@ -28,13 +28,13 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
--  ![chromoseq](respic/chromoseq.png) **ChromoSeq:** Streamlined
+-  ![chromoseq](/respic/chromoseq.png) **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive
    genomic profiling of acute myeloid leukemia (AML) and
-   myelodysplastic syndromes (MDS) and published it in the (New England
+   myelodysplastic syndromes (MDS) and published it in the [New England
    Journal of
-   Medicine)[https://www.nejm.org/doi/full/10.1056/NEJMoa2024534] in
+   Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2024534) in
    March 2021. This publication was the first to demonstrate that
    genome sequencing can be used in a clinical setting for fast,
    accurate, and accessible genetic testing of tumors. It is currently
@@ -47,7 +47,7 @@ incorporate NGS testing into their research and/or clinical practice.
   Duncavage, Haley Abel, and David Spencer and is coded in WDL and
   executed via Cromwell.
 
-- ![amlclearance](respic/amlclearance.png) **AML Clearance Exome Sequencing:** This assay uses deep exome
+- ![amlclearance](/respic/amlclearance.png) **AML Clearance Exome Sequencing:** This assay uses deep exome
   sequencing to identify dozens of mutations in the leukemia cells of
   AML patients at diagnosis, and then test whether these
   patient-specific mutations are present in exome sequencing data from
