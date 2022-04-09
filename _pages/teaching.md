@@ -8,6 +8,5 @@ permalink: /teaching/
 
 # Teaching
 
-**Teaching and mentorship are important is an important focus of and how mutations and epigenetic changes alter its normal
-functions to cause disease. We are specifically focused on acute
-myeloid leukemia.
+**Teaching and mentorship are important priorities in the Spencer
+lab. David is in the lab every day (mostly) and 

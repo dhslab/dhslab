@@ -23,7 +23,7 @@
   number_educ: 3
   education1: Medical Genetics in Iran
   education2: PhD in Italy
-  education3: Post-doc in the Spencer lab studying 3D genome architecture at the *HOXA* locus
+  education3: Post-doc in the Spencer lab studying 3D genome architecture at the <it>HOXA</it> locus
 
 - name: Ellie Wilson
   photo: ellie.JPG
@@ -33,3 +33,26 @@
   education1: BA in Biology, Carleton College, Northfield, MN
   education2: Internship at Hematologics, Inc. in Seattle, WA
 
+- name: Alex Miller
+  photo: 
+  info: Bioinformatics scientist, Texan
+  email: 
+  number_educ: 2
+  education1: BS in Economics, University of Houston, Houston, TX
+  education2: MS in Bioengineering, Boston University, Boston, MA
+
+- name: Feiyu Du
+  photo: 
+  info: Bioinformatics scientist, Texan
+  email: 
+  number_educ: 3
+  education1: BS in Biology and MS in Microbiology, Wuhan University, Wuhan, China
+  education2: MS in Food Science, University of Missouri, Columbia, MO
+
+- name: Charles Lu
+  photo: 
+  info: Wash U Undergraduate student
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
