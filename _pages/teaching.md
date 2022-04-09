@@ -1,14 +1,13 @@
 ---
-title: "Spencer Lab - Science"
+title: "Spencer Lab - Teaching"
 layout: textlay
-excerpt: "Spencer Lab -- Science"
+excerpt: "Spencer Lab -- Teaching"
 sitemap: false
-permalink: /science/
+permalink: /teaching/
 ---
 
-# Science
+# Teaching
 
-###The goal of our research is to understand the human genome
-and how mutations and epigenetic changes alter its normal
+**Teaching and mentorship are important is an important focus of and how mutations and epigenetic changes alter its normal
 functions to cause disease. We are specifically focused on acute
 myeloid leukemia.
