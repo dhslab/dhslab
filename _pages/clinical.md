@@ -17,7 +17,7 @@ and the
 have developed and implemented multiple advanced clinical
 sequencing assays for both translational research and patient care.
 
-![cap](logopic/cap.jpg) ![clia](logopic/clia.jpg)
+![cap](/images/logopic/cap.jpg){:width="200px"} ![clia](/images/logopic/clia.jpg) {:width="200px"}
 
 In his role as Medical Director, David oversees all assay design,
 development and implementation (including wet lab and informatics). He
