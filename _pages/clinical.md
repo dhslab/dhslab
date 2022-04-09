@@ -19,8 +19,9 @@ sequencing assays for both translational research and patient care.
 
 ![cap](/images/logopic/cap.png){:width="250px" style="} ![clia](/images/logopic/clia.png){:width="250px"}
 
-**In his role as Medical Director, David oversees all assay design,
-development and implementation (including wet lab and informatics).** He
+**In his role as Medical Director, David oversees the design,
+development, and implementation of all NGS assays in the MGI Clinical
+sequencing lab, including wet lab and bioinformatics.** He
 reviews all documentation and quality control data to maintain
 compliance with CLIA regulations and CAP checklist requirements, and
 serves as a consultant to investigators and clinicians who want to
@@ -28,7 +29,7 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
- ![chromoseq](/images/respic/chromoseq.png){:height="100px" class="img-responsive" style="float: right"} **ChromoSeq:** Streamlined
+ ![chromoseq](/images/respic/chromoseq.png){:height="50px" class="img-responsive" style="float: right"} **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive
    genomic profiling of acute myeloid leukemia (AML) and
