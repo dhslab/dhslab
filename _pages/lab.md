@@ -6,31 +6,20 @@ sitemap: false
 permalink: /lab/
 ---
 
-## The Spencer lab uses cutting edge approaches to understand the function of the human genome in health and disease ##
-
 The Spencer Lab is in the Section of Stem Cell Biology in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
 [Department of Medine](https://internalmedicine.wustl.edu/) at
 [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ![cap](/images/logopic/wusm.png){:width="150px"
-style="float: left"}
-The lab is located on the 6th floor of the Southwest Tower in the Wash
-U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri.
-
-**Our group specializes in cancer genetics, genomics, and
-epigenetics.** We are specifically focused on acute myeloid leukemia
-(AML), ![AML blasts](/images/aml.png){:width="150px" style="float:right"} a
-devastating cancer that affects children and adults. Despite major
-advances in the molecular understanding of this disease, current
-therapies have changed little over the past 30 years. We aim to
-understand how mutations and epigenetic changes alter the structure
-and function of the genome in ways that contribute to AML development, progression,
-and relapse.
+style="float: left"} The lab is located on the [6th floor of the Southwest Tower](https://goo.gl/maps/TwNzTrfPREB9KzSw7) in the Wash
+U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri. 
 
 **Research in the Spencer lab is a combination of experimental and
   computational science with a common theme of genomics.** We
   have specific expertise in DNA methylation, 3D genome architecture, and
   HOX gene expression and regulation, although we are broadly interested in
-  epigenetics and gene regulation.![Human Genome](/images/respic/humangenome.jpg){:width="150px" style="float:right"} To study these topics we use a range of experimental systems and techniques, including:
+  epigenetics and gene
+  regulation.![Human Genome](/images/respic/humangenome.jpg){:width="150px"
+  id="" style="float:right"} To study these topics we use a range of experimental systems and techniques, including:
   * Whole-exome sequencing, whole-genome sequencing, error-corrected
     amplicon sequencing
   * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
