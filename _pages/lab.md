@@ -6,7 +6,9 @@ sitemap: false
 permalink: /lab/
 ---
 
-## 
+## Cutting edge science to understand the function of the human genome
+in health and disease ##
+
 The Spencer Lab is in the [Section of Stem Cell Biology]() in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
 [Department of Medine](https://internalmedicine.wustl.edu/). We are
