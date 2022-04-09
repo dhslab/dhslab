@@ -2,14 +2,10 @@
   photo: 
   info: Spencer lab's first hire
   email: 
-  number_educ: 1
-  education1: Now a Genetics Grad student at U of Utah
-  education2:
+  status: Now a Genetics Grad student at U of Utah
 
 - name: Reuben Hogan
   photo: 
   info: Wash U Undergraduate MARC Scholar
-  email: 
-  number_educ: 1
-  education1: Now a MSTP at UCSF
-  education2: 
+  status: Now a MSTP at UCSF
+
