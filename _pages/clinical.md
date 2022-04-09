@@ -47,7 +47,7 @@ incorporate NGS testing into their research and/or clinical practice.
   Duncavage, Haley Abel, and David Spencer and is coded in WDL and
   executed via Cromwell.
 
-- ![amlclearance](/images/respic/amlclearance.png) **AML Clearance Exome Sequencing:** This assay uses deep exome
+- ![amlclearance](/images/respic/amlclearance.png) {:width="200px"} **AML Clearance Exome Sequencing:** This assay uses deep exome
   sequencing to identify dozens of mutations in the leukemia cells of
   AML patients at diagnosis, and then test whether these
   patient-specific mutations are present in exome sequencing data from
