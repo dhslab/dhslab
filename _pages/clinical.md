@@ -17,10 +17,10 @@ and the
 have developed and implemented multiple advanced clinical
 sequencing assays for both translational research and patient care.
 
-![cap](/images/logopic/cap.png){:width="250px"} ![clia](/images/logopic/clia.png){:width="250px"}
+![cap](/images/logopic/cap.png){:width="250px" style="} ![clia](/images/logopic/clia.png){:width="250px"}
 
-In his role as Medical Director, David oversees all assay design,
-development and implementation (including wet lab and informatics). He
+**In his role as Medical Director, David oversees all assay design,
+development and implementation (including wet lab and informatics).** He
 reviews all documentation and quality control data to maintain
 compliance with CLIA regulations and CAP checklist requirements, and
 serves as a consultant to investigators and clinicians who want to
@@ -28,7 +28,7 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
- ![chromoseq](/images/respic/chromoseq.png){:height="150px" class="img-responsive" style="float: right"} **ChromoSeq:** Streamlined
+ ![chromoseq](/images/respic/chromoseq.png){:height="100px" class="img-responsive" style="float: right"} **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive
    genomic profiling of acute myeloid leukemia (AML) and
@@ -49,7 +49,7 @@ incorporate NGS testing into their research and/or clinical practice.
   executed via Cromwell.
 
 
- ![amlclearance](/images/respic/amlclearance.png){:height="150px" class="img-responsive" style="float: right"} **AML Clearance Exome Sequencing:** This assay uses deep exome
+ ![amlclearance](/images/respic/amlclearance.png){:height="100px" class="img-responsive" style="float: right"} **AML Clearance Exome Sequencing:** This assay uses deep exome
   sequencing to identify dozens of mutations in the leukemia cells of
   AML patients at diagnosis, and then test whether these
   patient-specific mutations are present in exome sequencing data from
@@ -71,7 +71,7 @@ incorporate NGS testing into their research and/or clinical practice.
   patient-specific tumor vaccines.
 
 
-- **Exome Sequencing (technical sequencing only):** This assay uses
+**Exome Sequencing (technical sequencing only):** This assay uses
   hybrid-capture with a custom version of the IDT xGen Exome
   probeset for exome sequencing. This is a technical sequencing assay,
   and so analysis is performed for QC only. Variant analysis and all
@@ -79,7 +79,7 @@ incorporate NGS testing into their research and/or clinical practice.
   Medicine](https://pathology.wustl.edu/divisions/lgm/) Division in the
 [Department of Pathology and Immunology](https://pathology.wustl.edu/).
 
-- **Comprehensive Cancer Gene Panel (technical sequencing only):**
+**Comprehensive Cancer Gene Panel (technical sequencing only):**
   High-coverage targeted sequencing of cancer-related genes. This
   assay also uses hybrid-capture with a custom IDT xGen probeset and is a technical
   sequencing only assay. Variant analysis and all
