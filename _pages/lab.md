@@ -6,13 +6,20 @@ sitemap: false
 permalink: /lab/
 ---
 
-## Cutting edge science to understand the function of the human genome
-in health and disease ##
+## The Spencer lab uses cutting edge approaches to understand the function of the human genome in health and disease ##
 
-The Spencer Lab is in the [Section of Stem Cell Biology]() in the [Division
+The Spencer Lab is in the Section of Stem Cell Biology in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
-[Department of Medine](https://internalmedicine.wustl.edu/). We are
-located on the 6th floor of the Southwest Tower. 
+[Department of Medine](https://internalmedicine.wustl.edu/). The lab
+is located on the 6th floor of the Southwest Tower in the Wash
+U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri.
+
+Our group specializes in cancer genetics, genomics, and epigenetics
+and is specifically focsed on acute myeloid leukemia (AML), a
+devastating cancer that affects children and adults. Despite major
+advances in the molecular understanding of this disease, current
+therapies have changed little over the past 30 years. We aim to
+understand 
 
  **We are  looking for new PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
 

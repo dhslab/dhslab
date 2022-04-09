@@ -10,7 +10,8 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+    padding-top: 70px;
+    background-image: url('{{ site.baseurl }}/images/background.png');
 }
 
 figcaption {
