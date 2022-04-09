@@ -1,21 +1,35 @@
-- name: David H. Spencer
+- name: David H. Spencer MD, PhD
   photo: dave.jpg
-  info: Assistant professor, started July 2016
+  info: Principal Investigator, chief troubleshooter and data wrangler
   email: dspencerlab@gmail.com
-  number_educ: 0
-  education1: 
+  number_educ: 5
+  education1: BS in Biochemistry (with Distinction), University of Washington, Seattle
+  education2: MD and PhD (MSTP), University of Washington, Seattle
+  education3: Clinical Pathology and Molecular Genetic Patholog, Washington University in St. Louis
+  education4: Assistant Professor of Medicine and Pathology and Immunology
+  education5: Medical Director, McDonnell Genome Institute CLE Lab
 
 - name: Heidi Struthers
   photo: 
-  info: Lab Manager, started Nov 2016
+  info: Lab Manager, deputy troubleshooter and chief lab safety officer 
   email: 
   number_educ: 0
   education1:
 
-- name: Reza Ghasemi
+- name: Reza Ghasemi, PhD
   photo: reza.JPG
-  info: Staff Scientist
+  info: Staff Scientist, CRISPR and HiC guru
   email: 
-  number_educ: 1
-  education1: Reza trained in Medical Genetics in Iran and then earned his PhD in Italy. His work in the Spencer lab focuses on 3D genome architecture at the *HOXA* locus and how this regulates *HOXA* gene expression. He has used CRISPR/Cas9 and CRISPRi to understand how CTCF regulates genome iteractions that the *HOXA* locus. He was lead author on the first paper to publish HiC data from a primary AML samples and has made important contributions to all Spencer lab projects.
+  number_educ: 3
+  education1: Medical Genetics in Iran
+  education2: PhD in Italy
+  education3: Post-doc in the Spencer lab studying 3D genome architecture at the *HOXA* locus
+
+- name: Ellie Wilson
+  photo: ellie.JPG
+  info: Graduate student, DNA methylation expert
+  email: 
+  number_educ: 2
+  education1: BA in Biology, Carleton College, Northfield, MN
+  education2: Internship at Hematologics, Inc. in Seattle, WA
 
