@@ -10,7 +10,7 @@ permalink: /science/
 
 #### The Spencer lab studies the organization and function of the human genome and how altered genome function contributes to acute myeloid leukemia and other cancers. ####
 
-![AML blasts](/images/aml.png){:width="250px"
+![AML blasts](/images/aml.png){:width="200px"
 style="float:right; padding-left:20px"} 
 
 **Our group specializes in cancer genetics, genomics, and
@@ -30,7 +30,7 @@ transcription factors first discovered in *Drosophila*  that regulate normal
 self-renewal in mammalian hematopoietic cells and are highly expressed
 in human AML cells.
 
-![HOXA interactions](/images/respic/hoxainteractions.png){:width="250px"
+![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
  style="float:right"}
 
 Transcriptomic profiling of nearly 200 primary AML samples

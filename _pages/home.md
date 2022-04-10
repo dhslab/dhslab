@@ -15,7 +15,7 @@ style="float: left; border-radius:0%; padding-right:20px"}
 
 <br/>
 
-![Human Genome](/images/respic/humangenome.jpg){:width="250px"
+![Human Genome](/images/respic/humangenome.jpg){:width="300px"
   id="" style="float:right; border-radius:0%; padding-left:20px"} **Research in the Spencer lab is a combination of experimental and
   computational science with the genomics and epigenetics of acute
   myeloid leukemia the common theme.** We
