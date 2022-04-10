@@ -1,14 +1,12 @@
-- name: David H. Spencer MD, PhD
+- name: <a href="{{ site.url }}{{ site.baseurl }}/dhsbio/" David H. Spencer MD, PhD</a>
   photo: dave.jpg
   info: Principal Investigator, chief troubleshooter and data wrangler
   email: dspencerlab@gmail.com
-  number_educ: 5
-  education1: BS in Biochemistry (with Distinction), University of Washington, Seattle
-  education2: MD and PhD (MSTP), University of Washington, Seattle
-  education3: Clinical Pathology and Molecular Genetic Pathology, Washington University in St. Louis
-  education4: Assistant Professor of Medicine and Pathology and Immunology
-  education5: Medical Director, McDonnell Genome Institute Clinical Sequencing Lab
-
+  number_educ: 3
+  education1: education4: Assistant Professor of Medicine and Pathology and Immunology
+  education2: Medical Director, McDonnell Genome Institute Clinical Sequencing Lab
+  education3: Medical Director, McDonnell Genome Institute Clinical Sequencing Lab
+  
 - name: Heidi Struthers
   photo: 
   info: Lab Manager, deputy troubleshooter and chief lab safety officer 
