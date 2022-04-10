@@ -39,7 +39,7 @@ therapeutic strategies for most patients have not been
 identified. We have investigated the 3D genome architecture of the *HOXA* cluster in
 AML cells with mutations in NPM1 and whether specific CTCF binding sites are
 critical for maintaining *HOXA* genomic interactions and gene
-regulation. We found that these CTCF sites are *not absolutely required* for
+regulation. We found that these CTCF sites are not absolutely required for
 *HOXA* gene expression, which appears to be mainted by specific
 interactions with putative *HOXA* enhancers
 [(Ghasemi et. al., Leukemia 2020)](https://www.nature.com/articles/s41375-020-0856-3). We
