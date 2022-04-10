@@ -6,10 +6,51 @@ sitemap: false
 permalink: /
 ---
 
-We are a basic science and translational research group at [Washington University in St. Louis School of Medicine](https://medicine.wustl.edu/). Our aim is to understand the human genome and how genetic mutations and epigenetic changes affect its function in disease, particularly cancer.
+![cap](/images/logopic/wusm.png){:width="200px"
+style="float: right; border-radius:0%; background-color: white"}
+
+### Welcome to The Spencer Lab at Wash U ###
+
+The Spencer Lab is in the Section of Stem Cell Biology in the [Division
+of Oncology](https://oncology.wustl.edu/) in the
+[Department of Medine](https://internalmedicine.wustl.edu/) at
+[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/).
+
+<br/><br/>
+
+![Human Genome](/images/respic/humangenome.jpg){:width="300px"
+  id="" style="float:left; border-radius:0%;background-color:white"} **Research in the Spencer lab is a combination of experimental and
+  computational science with a common theme of genomics.** We
+  have specific expertise in DNA methylation, 3D genome architecture, and
+  HOX gene expression and regulation, although we are broadly interested in
+  epigenetics and gene regulation in cancer.
+
+<br/>
+
+To study these topics we use a range of experimental systems and techniques, including:
+  * Whole-exome sequencing, whole-genome sequencing, error-corrected
+    amplicon sequencing
+  * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
+  * ChIP-seq, RNA-seq, ATAC-seq
+  * whole-genome bisulfite sequencing
+  * CUT&Run, CUT&Tag
+  * in situ HiC, capture-C, HiChIP, PLAC-seq
+  * CRISPR/Cas9 genome editing, CRISPRi epigenetic editing
+  * CRE-seq massively parallel reporter assays
+  * Single cell technologies
+  * Human cell lines
+  * Human pluripotent stem cells, including NIH-approved embryonic
+  stem cells and induced pluripotent stem (iPS) cells.
+  * Primary human AML samples
+  * Mouse models
+
+We have direct access to high-throughput sequencers and cutting edge
+genomic methods at the McDonnell Genome Institute via David's role as
+Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicate compute cluster using
+analysis pipelines that we developed and implemented for our
+research.
+
+Information about our lab, including current and former members, can
+be found here. Read about our current 
 
 **We are  looking for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nci.png" style="width: 150px">
-</figure>

@@ -6,49 +6,22 @@ sitemap: false
 permalink: /lab/
 ---
 
-![cap](/images/logopic/wusm.png){:width="200px"
-style="float: right; border-radius:0%; background-color: white"}
+### Lab location and information
+The Spencer lab is located in room 613H on the [6th floor of the Southwest Tower](https://goo.gl/maps/TwNzTrfPREB9KzSw7)
+in the Wash U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri.<br/>
 
-### Welcome to The Spencer Lab at Wash U ###
-
-The Spencer Lab is in the Section of Stem Cell Biology in the [Division
-of Oncology](https://oncology.wustl.edu/) in the
-[Department of Medine](https://internalmedicine.wustl.edu/) at
-[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). The lab is located on the
-[6th floor of the Southwest Tower](https://goo.gl/maps/TwNzTrfPREB9KzSw7)
-in the Wash U/Barnes-Jewish Hospital Medical Campus in St. Louis,
-Missouri.
-
-<br/><br/>
-
-![Human Genome](/images/respic/humangenome.jpg){:width="200px"
-  id="" style="float:left; border-radius:0%;background-color:white"} **Research in the Spencer lab is a combination of experimental and
-  computational science with a common theme of genomics.** We
-  have specific expertise in DNA methylation, 3D genome architecture, and
-  HOX gene expression and regulation, although we are broadly interested in
-  epigenetics and gene
-  regulation. To study these topics we use a range of experimental systems and techniques, including:
-  * Whole-exome sequencing, whole-genome sequencing, error-corrected
-    amplicon sequencing
-  * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
-  * ChIP-seq, RNA-seq, ATAC-seq
-  * whole-genome bisulfite sequencing
-  * CUT&Run, CUT&Tag
-  * in situ HiC, capture-C, HiChIP, PLAC-seq
-  * CRISPR/Cas9 genome editing, CRISPRi epigenetic editing
-  * CRE-seq massively parallel reporter assays
-  * Single cell technologies
-  * Human cell lines
-  * Human pluripotent stem cells, including NIH-approved embryonic
-  stem cells and induced pluripotent stem (iPS) cells.
-  * Primary human AML samples
-  * Mouse models
-
-We have direct access to high-throughput sequencers and cutting edge
-genomic methods at the McDonnell Genome Institute via David's role as
-Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicate compute cluster using
-analysis pipelines that we developed and implemented for our
-research. 
+We have 900 square feet of lab space with a dedicated tissue culture
+room and an equipment bay with an Agilent Tapestation, Covaris
+ultrafocused sonicator, three thermocyclers/thermomixers, protein and
+nucleic acid electrophoresis equipment, and multiple
+centrifuges. Within steps from the lab there are shared qPCR machines, imagers, plate
+readers, automated protein analyzers, and Neon and Lonza
+electroporation instruments. We are also located one floor below the
+[Siteman flow cytometry core](https://siteman.wustl.edu/research/shared-resources-cores/flow-cytometry/),
+with analyzers, sorters, and Incucyte live cell monitoring
+instruments. Most computing is done on a dedicated 128 core compute cluster
+with 1.5Tb of total memory. We also have access to two DRAGEN FPGA
+servers for hardware-accelerated genomic analysis. 
 
 ### Current members
 {% assign number_printed = 0 %}
