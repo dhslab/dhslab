@@ -53,8 +53,7 @@ Medical Director of the CLIA sequencing lab. We perform our own data analysis on
 analysis pipelines that we developed and implemented for our
 research.
 
-####Visit the links above to learn about [our research]({{ site.url
-}}{{ site.baseurl }}/science), check out [our recent news and publications]({{ site.url }}{{ site.baseurl
-}}/publications), meet [our lab]({{ site.url }}{{ site.baseurl }}/lab), or learn about David's [clinical role at Wash U]({{ site.url }}{{ site.baseurl }}/clinical) or read [David's bio]({{ site.url }}{{ site.baseurl }}/dhsbio). ####
+#### Visit the links above to learn about [our research]({{ site.url
+}}{{ site.baseurl }}/science), check out [our recent news and publications]({{ site.url }}{{ site.baseurl }}/publications), meet [our lab]({{ site.url }}{{ site.baseurl }}/lab), or learn about David's [clinical role at Wash U]({{ site.url }}{{ site.baseurl }}/clinical) or read [David's bio]({{ site.url }}{{ site.baseurl }}/dhsbio).
 
 **We currently have open positions for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
