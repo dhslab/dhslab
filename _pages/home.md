@@ -17,9 +17,9 @@ style="float: left; border-radius:0%; padding-right:20px"}
 
 ![Human Genome](/images/respic/humangenome.jpg){:width="300px"
   id="" style="float:right; border-radius:0%; padding-left:20px"} **Research in the Spencer lab is a combination of experimental and
-  computational science with the genomics and epigenetics of acute
-  myeloid leukemia the common theme.** We
-  have specific expertise in DNA methylation, 3D genome architecture, and
+  computational science that is focused on the common theme of the
+  genetics, genomics, and epigenetics of acute
+  myeloid leukemia.** We have specific expertise in DNA methylation, 3D genome architecture, and
   HOX gene expression and regulation in AML, although we are broadly interested in
   epigenetics and gene regulation in cancer. We also have extensive
   experience using genomic technologies to make observations in
