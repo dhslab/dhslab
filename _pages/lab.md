@@ -7,20 +7,20 @@ permalink: /lab/
 ---
 
 ![cap](/images/logopic/wusm.png){:width="150px"
-style="float: left" id="plain"} The Spencer Lab is in the Section of Stem Cell Biology in the [Division
+style="float: left; border-radius:0%"} The Spencer Lab is in the Section of Stem Cell Biology in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
 [Department of Medine](https://internalmedicine.wustl.edu/) at
 [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). The lab is located on the
 [6th floor of the Southwest Tower](https://goo.gl/maps/TwNzTrfPREB9KzSw7)
 in the Wash U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri. 
 
-**Research in the Spencer lab is a combination of experimental and
+![Human Genome](/images/respic/humangenome.jpg){:width="150px"
+  id="" style="float:right; border-radius:0%"} **Research in the Spencer lab is a combination of experimental and
   computational science with a common theme of genomics.** We
   have specific expertise in DNA methylation, 3D genome architecture, and
   HOX gene expression and regulation, although we are broadly interested in
   epigenetics and gene
-  regulation.![Human Genome](/images/respic/humangenome.jpg){:width="150px"
-  id="" style="float:right"} To study these topics we use a range of experimental systems and techniques, including:
+  regulation. To study these topics we use a range of experimental systems and techniques, including:
   * Whole-exome sequencing, whole-genome sequencing, error-corrected
     amplicon sequencing
   * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
