@@ -23,7 +23,7 @@ and relapse.
 
 ### Current Research projects ###
 
-#### <it>HOX</it> gene regulation in AML. ####
+#### <it>HOX</it> gene regulation in AML ####
 ![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
  style="float:right"} *HOX* genes are conserved
 transcription factors first discovered in *Drosophila*  that regulate normal
@@ -50,7 +50,7 @@ parallel reporter assays in cell lines and primary AML samples to
 define the cis-acting regulatory sequences that are critical for HOXA
 expression in AML.
 
-#### Relationships between DNA methylation and 3D genome architecture in AML cells.
+#### Relationships between DNA methylation and 3D genome architecture in AML cells
 DNA methylation is the most commonly
    mutated pathway in AML. DNMT3A mutations result in hypomethylation and
    mutations in IDH1, IDH2, and TET2. We have chacterized the DNA methylation phenotype
