@@ -33,7 +33,8 @@ To study these topics we use a range of experimental systems and techniques, inc
   * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
   * ChIP-seq, RNA-seq, ATAC-seq
   * whole-genome bisulfite sequencing
-  * CUT&Run, CUT&Tag
+  * CUT&Run, CUT&Tag ![HOXA locus](/images/respic/hoxamodel.png){:width="200px"
+  id="" style="float:right; border-radius:0%; padding-left:20px"} 
   * in situ HiC, capture-C, HiChIP, PLAC-seq
   * CRISPR/Cas9 genome editing, CRISPRi epigenetic editing
   * CRE-seq massively parallel reporter assays
