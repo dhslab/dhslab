@@ -11,12 +11,11 @@ style="float: left; border-radius:0%; padding-right:20px"}
 
 ## Welcome to The Spencer Lab at Wash U ##
 
-#### The Spencer Lab is in the Section of Stem Cell Biology in the [Division of Oncology](https://oncology.wustl.edu/) in the
-[Department of Medine](https://internalmedicine.wustl.edu/) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ####
+#### The Spencer Lab is in the Section of Stem Cell Biology in the [Division of Oncology](https://oncology.wustl.edu/) in the [Department of Medine](https://internalmedicine.wustl.edu/) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ####
 
 <br/>
 
-![Human Genome](/images/respic/humangenome.jpg){:width="200px"
+![Human Genome](/images/respic/humangenome.jpg){:width="250px"
   id="" style="float:right; border-radius:0%; padding-left:20px"} **Research in the Spencer lab is a combination of experimental and
   computational science with the genomics and epigenetics of acute
   myeloid leukemia the common theme.** We
