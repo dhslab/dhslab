@@ -6,9 +6,9 @@ sitemap: false
 permalink: /jobs
 ---
 
-# Open positions
+## Open positions
 
-###We have currently openings for post-docs who are interested in human genomics, epigenetics and cancer biology.
+### We have currently openings for post-docs who are interested in human genomics, epigenetics and cancer biology.
 
 The Spencer lab combines wet and dry lab experiments to study the fundamental biology of genomes and pursue clinical/translational genomic studies. Ideal candidates will have some informatics skills but not be afraid to wield a pipettor! Email David Spencer at dspencerlab [at] gmail.com or apply at [Wash U Jobs](https://jobs.wustl.edu/)
 

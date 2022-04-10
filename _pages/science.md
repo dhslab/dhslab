@@ -11,9 +11,9 @@ permalink: /science/
 #### The Spencer lab studies the organization and function of the
      human genome and how altered genome function contributes to acute
      myeloid leukemia and other cancers. ####
-
 ![AML blasts](/images/aml.png){:width="150px"
-style="float:right; padding-left:20px"} **Our group specializes in cancer genetics, genomics, and
+style="float:right; padding-left:20px"} 
+**Our group specializes in cancer genetics, genomics, and
 epigenetics with a focus on AML.** We are specifically focused on acute myeloid leukemia
 (AML), a devastating cancer that affects children and adults. Despite major
 advances in the molecular understanding of this disease, current
@@ -26,7 +26,7 @@ and relapse.
 
 1. **HOX gene regulation in AML.** HOX genes regulate normal
 self-renewal in hematopoietic cells and are highly expressed in AML cells, suggesting they drive malignant
-self-renewal in AML. ![HOXA interactions](/images/hoxainteractions.png){:width="150px"
+self-renewal in AML. ![HOXA interactions](/images/respic/hoxainteractions.png){:width="150px"
 style="float:right"}
 Transcriptomic profiling of nearly 200 primary AML samples
 by our group showed that HOXA and/or HOXB genes are highly expressed
