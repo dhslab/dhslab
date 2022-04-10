@@ -22,13 +22,17 @@ years. We aim to understand how mutations and epigenetic changes alter the struc
 and function of the genome in ways that contribute to AML development, progression,
 and relapse.
 
-#### Current Research projects ####
+### Current Research projects ###
 
-1. **<it>HOX<it/> gene regulation in AML.** *HOX* genes are conserved
+#### <it>HOX</it> gene regulation in AML. ####
+*HOX* genes are conserved
 transcription factors first discovered in *Drosophila*  that regulate normal
 self-renewal in mammalian hematopoietic cells and are highly expressed
-in human AML cells. ![HOXA interactions](/images/respic/hoxainteractions.png){:width="150px"
-style="float:right"}
+in human AML cells.
+
+![HOXA interactions](/images/respic/hoxainteractions.png){:width="250px"
+ style="float:right"}
+
 Transcriptomic profiling of nearly 200 primary AML samples
 by our group showed that *HOXA* and/or *HOXB* genes are highly expressed
 in more than half of all AML patients and are therefore among the most
