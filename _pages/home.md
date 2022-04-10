@@ -46,7 +46,7 @@ style="float: left; border-radius:0%; padding-right:20px"}
 
 **We have direct access to high-throughput sequencers and cutting edge
 genomic methods** at the McDonnell Genome Institute via David's role as
-Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicate compute cluster using
+Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicated compute cluster using
 analysis pipelines that we developed and implemented for our
 research.
 
