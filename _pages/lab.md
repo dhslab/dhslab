@@ -6,7 +6,7 @@ sitemap: false
 permalink: /lab/
 ---
 
-## Lab location and information
+## Spencer Lab location and information
 The Spencer lab is located in room 613H on the [6th floor of the Southwest Tower](https://goo.gl/maps/TwNzTrfPREB9KzSw7)
 in the Wash U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri.<br/>
 

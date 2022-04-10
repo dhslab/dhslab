@@ -18,9 +18,9 @@ of Oncology](https://oncology.wustl.edu/) in the
 
 <br/><br/>
 
-![Human Genome](/images/respic/humangenome.jpg){:width="300px"
+![Human Genome](/images/respic/humangenome.jpg){:width="200px"
   id="" style="float:left; border-radius:0%;background-color:white"} **Research in the Spencer lab is a combination of experimental and
-  computational science with a common theme of genomics.** We
+  computational science with cancer genomics as the common theme.** We
   have specific expertise in DNA methylation, 3D genome architecture, and
   HOX gene expression and regulation, although we are broadly interested in
   epigenetics and gene regulation in cancer.
@@ -50,7 +50,7 @@ Medical Director of the CLIA sequencing lab. We perform our own data analysis on
 analysis pipelines that we developed and implemented for our
 research.
 
-Information about our lab, including current and former members, can
-be found here. Read about our current 
+Visit the links above to learn about [our research], check out [our
+recent publications], meet [our lab], or learn about David's [clinical role at Wash U]. 
 
-**We are  looking for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
+**We are looking for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/jobs) **!**

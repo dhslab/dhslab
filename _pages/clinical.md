@@ -8,12 +8,10 @@ permalink: /clinical/
 
 ## Clinical Genomics
 
-**David Spencer is a board-certified Molecular Pathologist** and
-Medical Director of the
+**David Spencer is a board-certified Molecular Pathologist** and Medical Director of the
 [McDonnell Genome Institute](https://genome.wustl.edu)'s CLIA Licensed Environment (MGI-CLE), a CLIA-licensed, CAP-accredited clinical
 sequencing laboratory. He and his colleagues in the MGI-CLE
-and the
-[Department of Pathology and Immunology](https://pathology.wustl.edu/)
+and the [Department of Pathology and Immunology](https://pathology.wustl.edu/)
 have developed and implemented multiple advanced clinical
 sequencing assays for both translational research and patient care.
 
@@ -29,7 +27,7 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
- ![chromoseq](/images/respic/chromoseq.png){:height="50px" class="img-responsive" style="float: right"} **ChromoSeq:** Streamlined
+ ![chromoseq](/images/respic/chromoseq.png){:width="100px" class="img-responsive" style="float: right"} **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive
    genomic profiling of acute myeloid leukemia (AML) and
