@@ -6,6 +6,7 @@ sitemap: false
 permalink: /lab/
 ---
 
+###The Spencer lab
 ![cap](/images/logopic/wusm.png){:width="150px"
 style="float: left; border-radius:0%"} The Spencer Lab is in the Section of Stem Cell Biology in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
@@ -15,7 +16,7 @@ of Oncology](https://oncology.wustl.edu/) in the
 in the Wash U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri. 
 
 ![Human Genome](/images/respic/humangenome.jpg){:width="150px"
-  id="" style="float:right; border-radius:0%"} **Research in the Spencer lab is a combination of experimental and
+  id="" style="float:right; border-radius:0%;background-color:white"} **Research in the Spencer lab is a combination of experimental and
   computational science with a common theme of genomics.** We
   have specific expertise in DNA methylation, 3D genome architecture, and
   HOX gene expression and regulation, although we are broadly interested in
@@ -42,12 +43,6 @@ genomic methods at the McDonnell Genome Institute via David's role as
 Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicate compute cluster using
 analysis pipelines that we developed and implemented for our
 research. 
-
-**Although we are interested in fundamental basic research
-questions, our overall goal is to understand the genomics of human
-disease to improve patient outcomes.**
-
- **We are  looking for new PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
 
 ### Current members
 {% assign number_printed = 0 %}
