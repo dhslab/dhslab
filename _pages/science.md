@@ -28,12 +28,8 @@ and relapse.
 *HOX* genes are conserved
 transcription factors first discovered in *Drosophila*  that regulate normal
 self-renewal in mammalian hematopoietic cells and are highly expressed
-in human AML cells.
-
-![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
- style="float:right"}
-
-Transcriptomic profiling of nearly 200 primary AML samples
+in human AML cells. ![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
+ style="float:right"} Transcriptomic profiling of nearly 200 primary AML samples
 by our group showed that *HOXA* and/or *HOXB* genes are highly expressed
 in more than half of all AML patients and are therefore among the most
 common drivers of self-renewal in AML cells [(Spencer et al., Leukemia
@@ -55,8 +51,8 @@ parallel reporter assays in cell lines and primary AML samples to
 define the cis-acting regulatory sequences that are critical for HOXA
 expression in AML.
 
-2. **Relationships between DNA methylation and 3D genome architecture
-   in AML cells.** DNA methylation is the most commonly
+#### Relationships between DNA methylation and 3D genome architecture in AML cells.
+DNA methylation is the most commonly
    mutated pathway in AML. DNMT3A mutations result in hypomethylation and
    mutations in IDH1, IDH2, and TET2. We have chacterized the DNA methylation phenotype
    of primary AML samples with mutations in IDH1 and IDH2 that
