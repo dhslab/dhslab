@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ![cap](/images/logopic/wusm.png){:width="200px"
-style="float: right; border-radius:0%; background-color: white"}
+style="float: left; border-radius:0%; background-color: white"}
 
 ## Welcome to The Spencer Lab at Wash U ##
 
