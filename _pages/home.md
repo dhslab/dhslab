@@ -27,7 +27,7 @@ of Oncology](https://oncology.wustl.edu/) in the
 
 <br/>
 
-To study these topics we use a range of experimental systems and techniques, including:
+**To study these topics we use a range of experimental systems and techniques, including:**
   * Whole-exome sequencing, whole-genome sequencing, error-corrected
     amplicon sequencing
   * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
