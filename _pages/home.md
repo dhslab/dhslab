@@ -35,16 +35,14 @@ of Oncology](https://oncology.wustl.edu/) in the
   * Whole-exome sequencing, whole-genome sequencing, error-corrected
     amplicon sequencing
   * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
-  * ChIP-seq, RNA-seq, ATAC-seq
-  * whole-genome bisulfite sequencing
-  * CUT&Run, CUT&Tag ![HOXA locus](/images/respic/hoxamodel.png){:width="200px"
+  * ChIP-seq, RNA-seq, ATAC-seq, CUT&Run, CUT&Tag ![HOXA locus](/images/respic/hoxamodel.png){:width="200px"
   id="" style="float:right; border-radius:0%; padding-left:20px"} 
   * in situ HiC, capture-C, HiChIP, PLAC-seq
+  * Whole-genome bisulfite sequencing
   * CRISPR/Cas9 genome editing, CRISPRi epigenetic editing
   * CRE-seq massively parallel reporter assays
   * Single cell technologies
-  * Human cell lines
-  * Human pluripotent stem cells, including NIH-approved embryonic
+  * Human cell lines, human pluripotent stem cells, including NIH-approved embryonic
   stem cells and induced pluripotent stem (iPS) cells.
   * Primary human AML samples
   * Mouse models
