@@ -25,11 +25,11 @@ and relapse.
 ### Current Research projects ###
 
 #### <it>HOX</it> gene regulation in AML. ####
-*HOX* genes are conserved
+![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
+ style="float:right"} *HOX* genes are conserved
 transcription factors first discovered in *Drosophila*  that regulate normal
 self-renewal in mammalian hematopoietic cells and are highly expressed
-in human AML cells. ![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
- style="float:right"} Transcriptomic profiling of nearly 200 primary AML samples
+in human AML cells. Transcriptomic profiling of nearly 200 primary AML samples
 by our group showed that *HOXA* and/or *HOXB* genes are highly expressed
 in more than half of all AML patients and are therefore among the most
 common drivers of self-renewal in AML cells [(Spencer et al., Leukemia
