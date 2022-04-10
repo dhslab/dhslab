@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ![cap](/images/logopic/wusm.png){:width="200px"
-style="float: left; border-radius:0%; background-color: white; padding-right:20px"}
+style="float: left; border-radius:0%; padding-right:20px"}
 
 ## Welcome to The Spencer Lab at Wash U ##
 
@@ -16,7 +16,7 @@ of Oncology](https://oncology.wustl.edu/) in the
 [Department of Medine](https://internalmedicine.wustl.edu/) at
 [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/).
 
-<br/><br/>
+<br/>
 
 ![Human Genome](/images/respic/humangenome.jpg){:width="200px"
   id="" style="float:right; border-radius:0%; padding-left:20px"} **Research in the Spencer lab is a combination of experimental and
