@@ -33,12 +33,11 @@ in more than half of all AML patients and are therefore among the most
 common drivers of self-renewal in AML cells [(Spencer et al., Leukemia
 2015)](https://www.nature.com/articles/leu20156). These and other studies have also demonstrated that HOX gene
 expression occurs in canonical, reproducible patterns in primary AML
-samples that are closely associated with specific
-mutations. While progress has been made in understanding—and
+samples that are closely associated with specific mutations. While progress has been made in understanding—and
 targeting—HOX gene regulation in some rare AML types, effective
 therapeutic strategies for most patients have not been
 identified. Research in other experimental systems has shown that
-three-dimensional (3D) genome
-interactions are important for regulating the HOXA gene cluster. We
+three-dimensional (3D) genome interactions are important for regulating the HOXA gene cluster. We
 have investigated the 3D genome architecture of the HOXA cluster in
-AML cells with mutations in NPM1. These studies identified We will use genomic methods and functional analysis to define the specific 3D genome interactions, regulatory DNA elements, and epigenetic pathways that are responsible for HOXA gene activation in AMLs with common recurrent mutations. These findings may therefore suggest therapeutic targets that could be immediately useful for disrupting aberrant self-renewal in AML patients. 
+AML cells with mutations in NPM1 and whether CTCF binding sites are
+critical for normal HOXA gene regulation. These studies identified We will use genomic methods and functional analysis to define the specific 3D genome interactions, regulatory DNA elements, and epigenetic pathways that are responsible for HOXA gene activation in AMLs with common recurrent mutations. These findings may therefore suggest therapeutic targets that could be immediately useful for disrupting aberrant self-renewal in AML patients. 

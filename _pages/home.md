@@ -44,13 +44,16 @@ To study these topics we use a range of experimental systems and techniques, inc
   * Primary human AML samples
   * Mouse models
 
-We have direct access to high-throughput sequencers and cutting edge
-genomic methods at the McDonnell Genome Institute via David's role as
+**We have direct access to high-throughput sequencers and cutting edge
+genomic methods** at the McDonnell Genome Institute via David's role as
 Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicate compute cluster using
 analysis pipelines that we developed and implemented for our
 research.
 
-Visit the links above to learn about [our research], check out [our
-recent publications], meet [our lab], or learn about David's [clinical role at Wash U]. 
+Visit the links above to learn about [our research]({{ site.url }}{{ site.baseurl }}/science), check out [our
+recent news and publications]({{ site.url }}{{ site.baseurl
+}}/publications), meet [our lab]({{ site.url }}{{ site.baseurl
+}}/lab), or learn about David's [clinical role at Wash U]({{ site.url
+}}{{ site.baseurl }}/clinical) or read [David's bio]({{ site.url }}{{ site.baseurl }}/dhsbio). 
 
-**We are looking for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
+**We currently have open positions for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
