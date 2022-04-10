@@ -6,7 +6,7 @@ sitemap: false
 permalink: /lab/
 ---
 
-### Lab location and information
+## Lab location and information
 The Spencer lab is located in room 613H on the [6th floor of the Southwest Tower](https://goo.gl/maps/TwNzTrfPREB9KzSw7)
 in the Wash U/Barnes-Jewish Hospital Medical Campus in St. Louis, Missouri.<br/>
 
@@ -23,7 +23,7 @@ instruments. Most computing is done on a dedicated 128 core compute cluster
 with 1.5Tb of total memory. We also have access to two DRAGEN FPGA
 servers for hardware-accelerated genomic analysis. 
 
-### Current members
+## Current members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -89,7 +89,7 @@ servers for hardware-accelerated genomic analysis.
 </div>
 {% endif %}
 
-### Alumni
+## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}

@@ -6,7 +6,9 @@ sitemap: false
 permalink: /science/
 ---
 
-## The Spencer lab studies the organization and function of the human genome and how altered genome function contributes to cancer. ##
+## Science
+
+#### The Spencer lab studies the organization and function of the human genome and how altered genome function contributes to cancer.
 
 **Our group specializes in cancer genetics, genomics, and
 epigenetics.** We are specifically focused on acute myeloid leukemia

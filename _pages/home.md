@@ -9,7 +9,7 @@ permalink: /
 ![cap](/images/logopic/wusm.png){:width="200px"
 style="float: right; border-radius:0%; background-color: white"}
 
-### Welcome to The Spencer Lab at Wash U ###
+## Welcome to The Spencer Lab at Wash U ##
 
 The Spencer Lab is in the Section of Stem Cell Biology in the [Division
 of Oncology](https://oncology.wustl.edu/) in the
