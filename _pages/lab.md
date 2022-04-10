@@ -17,7 +17,7 @@ of Oncology](https://oncology.wustl.edu/) in the
 in the Wash U/Barnes-Jewish Hospital Medical Campus in St. Louis,
 Missouri.
 
-
+<br/><br/>
 
 ![Human Genome](/images/respic/humangenome.jpg){:width="150px"
   id="" style="float:right; border-radius:0%;background-color:white"} **Research in the Spencer lab is a combination of experimental and
