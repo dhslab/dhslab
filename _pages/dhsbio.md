@@ -8,8 +8,7 @@ permalink: /dhsbio/
 
 ## David H. Spencer MD, PhD
 
-![Dave](/images/peoplepic/dave.jpg){:width="200px"
-  id="" style="float:left; border-radius:0%;background-color:white"}
+![Dave](/images/peoplepic/dave.jpg){:width="200px"}
   David is from Iowa City, Iowa. He attended Iowa City City High
   School where he played soccer and was introduced to genetic
   research through a program that placed high school students in
