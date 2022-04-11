@@ -32,8 +32,7 @@ style="float: left; border-radius:0%; padding-right:20px"}
   * Whole-exome sequencing, whole-genome sequencing, error-corrected
     amplicon sequencing
   * Long read sequencing using Oxford Nanopore and PacBio Hifi platforms
-  * ChIP-seq, RNA-seq, ATAC-seq, CUT&Run, CUT&Tag ![HOXA locus](/images/respic/hoxamodel.png){:width="400px"
-  id="" style="float:right; border-radius:0%; padding-left:20px"} 
+  * ChIP-seq, RNA-seq, ATAC-seq, CUT&Run, CUT&Tag
   * in situ HiC, capture-C, HiChIP, PLAC-seq
   * Whole-genome bisulfite sequencing
   * CRISPR/Cas9 genome editing, CRISPRi epigenetic editing
@@ -43,7 +42,7 @@ style="float: left; border-radius:0%; padding-right:20px"}
   stem cells and induced pluripotent stem (iPS) cells.
   * Primary human AML samples
   * Mouse models
-
+![HOXA locus](/images/respic/hoxamodel.png){:width="400px" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"}
 **We have direct access to high-throughput sequencers and cutting edge
 genomic methods** at the McDonnell Genome Institute via David's role as
 Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicated compute cluster using
