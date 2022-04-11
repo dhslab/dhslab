@@ -51,6 +51,8 @@ parallel reporter assays in cell lines and primary AML samples to
 define the cis-acting regulatory sequences that are critical for HOXA
 expression in AML.
 
+![IDH enhancers](/images/respic/idhenhancers.png){:width="400px"
+ style="float:left"} 
 #### Relationships between DNA methylation and 3D genome architecture in AML cells
 DNA methylation is the most commonly
    mutated pathway in AML. DNMT3A mutations result in hypomethylation and
