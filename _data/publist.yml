@@ -58,6 +58,26 @@
   highlight: 0
   news2:
 
+- title: "Functional characterization of biallelic RTTN variants identified in an infant with microcephaly, simplified gyral pattern, pontocerebellar hypoplasia, and seizures"
+  image: none.png
+  description: Functional characterization of biallelic RTTN variants identified in an infant with microcephaly, simplified gyral pattern, pontocerebellar hypoplasia, and seizures
+  authors: Wambach JA, Wegner DJ, Yang P, Shinawi M, Baldridge D, Betleja E, Shimony JS, Spencer D, Hackett BP, Andrews MV, Ferkol T, Dutcher SK, Mahjoub MR, Cole FS
+  link: 
+     url: https://doi.org/10.1038/s41390-018-0083-z
+     display:  Pediatr Res. 2018 Sep;84(3):435-441. 
+  highlight: 0
+  news2:
+
+- title: "Sequencing of Tumor DNA to Guide Cancer Risk Assessment and Therapy"
+  image: none.png
+  description: Sequencing of Tumor DNA to Guide Cancer Risk Assessment and Therapy
+  authors: Spencer DH, Ley TJ
+  link: 
+     url: https://doi.org/10.1001/jama.2018.2281
+     display:  JAMA. 2018 Apr 10;319(14):1497-1498. 
+  highlight: 0
+  news2:
+  
 - title: "DNMT3AR882-associated hypomethylation patterns are maintained in primary AML xenografts, but not in the DNMT3AR882C OCI-AML3 leukemia cell line."
   image: chen.bcj.png
   description: DNA methylation analysis of AML cell lines as appropriate models of AML-associated methylation phenotypes.
@@ -68,3 +88,273 @@
   highlight: 0
   news2:
 
+
+- title: "Expression profiling of snoRNAs in normal hematopoiesis and AML"
+  image: none.png
+  description: Expression profiling of snoRNAs in normal hematopoiesis and AML
+  authors: Warner WA, Spencer DH, Trissal M, White BS, Helton N, Ley TJ, Link DC
+  link: 
+     url: https://doi.org/10.1182/bloodadvances.2017006668
+     display:  Blood Adv. 2018 Jan 23;2(2):151-163. 
+  highlight: 0
+  news2:
+
+- title: "Comprehensive discovery of noncoding RNAs in acute myeloid leukemia cell transcriptomes"
+  image: none.png
+  description: Comprehensive discovery of noncoding RNAs in acute myeloid leukemia cell transcriptomes
+  authors: Zhang J, Griffith M, Miller CA, Griffith OL, Spencer DH, Walker JR, Magrini V, McGrath SD, Ly A, Helton NM, Trissal M, Link DC, Dang HX, Larson DE, Kulkarni S, Cordes MG, Fronick CC, Fulton RS, Klco JM, Mardis ER, Ley TJ, Wilson RK, Maher CA
+  link: 
+     url: https://doi.org/10.1016/j.exphem.2017.07.008
+     display:  Exp Hematol. 2017 Nov;55:19-33. 
+  highlight: 0
+  news2:
+
+- title: "CpG Island Hypermethylation Mediated by DNMT3A Is a Consequence of AML Progression"
+  image: none.png
+  description: CpG Island Hypermethylation Mediated by DNMT3A Is a Consequence of AML Progression
+  authors: Spencer DH, Russler-Germain DA, Ketkar S, Helton NM, Lamprecht TL, Fulton RS, Fronick CC, O'Laughlin M, Heath SE, Shinawi M, Westervelt P, Payton JE, Wartman LD, Welch JS, Wilson RK, Walter MJ, Link DC, DiPersio JF, Ley TJ
+  link: 
+     url: https://doi.org/10.1016/j.cell.2017.01.021
+     display:  Cell. 2017 Feb 23;168(5):801-816.e13. 
+  highlight: 0
+  news2:
+
+- title: "CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer"
+  image: none.png
+  description: CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer
+  authors: Griffith M, Spies NC, Krysiak K, McMichael JF, Coffman AC, Danos AM, Ainscough BJ, Ramirez CA, Rieke DT, Kujan L, Barnell EK, Wagner AH, Skidmore ZL, Wollam A, Liu CJ, Jones MR, Bilski RL, Lesurf R, Feng YY, Shah NM, Bonakdar M, Trani L, Matlock M, Ramu A, Campbell KM, Spies GC, Graubert AP, Gangavarapu K, Eldred JM, Larson DE, Walker JR, Good BM, Wu C, Su AI, Dienstmann R, Margolin AA, Tamborero D, Lopez-Bigas N, Jones SJ, Bose R, Spencer DH, Wartman LD, Wilson RK, Mardis ER, Griffith OL
+  link: 
+     url: https://doi.org/10.1038/ng.3774
+     display:  Nat Genet. 2017 Jan 31;49(2):170-174. 
+  highlight: 0
+  news2:
+
+- title: "Occult Specimen Contamination in Routine Clinical Next-Generation Sequencing Testing"
+  image: none.png
+  description: Occult Specimen Contamination in Routine Clinical Next-Generation Sequencing Testing
+  authors: Sehn JK, Spencer DH, Pfeifer JD, Bredemeyer AJ, Cottrell CE, Abel HJ, Duncavage EJ
+  link: 
+     url: https://doi.org/10.1309/AJCPR88WDJJLDMBN
+     display:  Am J Clin Pathol. 2015 Oct;144(4):667-74. 
+  highlight: 0
+  news2:
+
+- title: "Association Between Mutation Clearance After Induction Therapy and Outcomes in Acute Myeloid Leukemia"
+  image: none.png
+  description: Association Between Mutation Clearance After Induction Therapy and Outcomes in Acute Myeloid Leukemia
+  authors: Klco JM, Miller CA, Griffith M, Petti A, Spencer DH, Ketkar-Kulkarni S, Wartman LD, Christopher M, Lamprecht TL, Helton NM, Duncavage EJ, Payton JE, Baty J, Heath SE, Griffith OL, Shen D, Hundal J, Chang GS, Fulton R, O'Laughlin M, Fronick C, Magrini V, Demeter RT, Larson DE, Kulkarni S, Ozenberger BA, Welch JS, Walter MJ, Graubert TA, Westervelt P, Radich JP, Link DC, Mardis ER, DiPersio JF, Wilson RK, Ley TJ
+  link: 
+     url: https://doi.org/10.1001/jama.2015.9643
+     display:  JAMA. 2015 Aug 25;314(8):811-22. 
+  highlight: 0
+  news2:
+
+- title: "Epigenomic analysis of the HOX gene loci reveals mechanisms that may control canonical expression patterns in AML and normal hematopoietic cells"
+  image: none.png
+  description: Epigenomic analysis of the HOX gene loci reveals mechanisms that may control canonical expression patterns in AML and normal hematopoietic cells
+  authors: Spencer DH, Young MA, Lamprecht TL, Helton NM, Fulton R, O'Laughlin M, Fronick C, Magrini V, Demeter RT, Miller CA, Klco JM, Wilson RK, Ley TJ
+  link: 
+     url: https://doi.org/10.1038/leu.2015.6
+     display:  Leukemia. 2015 Jun;29(6):1279-89. 
+  highlight: 0
+  news2:
+
+- title: "Clinical next-generation sequencing in patients with non-small cell lung cancer"
+  image: none.png
+  description: Clinical next-generation sequencing in patients with non-small cell lung cancer
+  authors: Hagemann IS, Devarakonda S, Lockwood CM, Spencer DH, Guebert K, Bredemeyer AJ, Al-Kateb H, Nguyen TT, Duncavage EJ, Cottrell CE, Kulkarni S, Nagarajan R, Seibert K, Baggstrom M, Waqar SN, Pfeifer JD, Morgensztern D, Govindan R
+  link: 
+     url: https://doi.org/10.1002/cncr.29089
+     display:  Cancer. 2015 Feb 15;121(4):631-9. 
+  highlight: 0
+  news2:
+
+- title: "The R882H DNMT3A mutation associated with AML dominantly inhibits wild-type DNMT3A by blocking its ability to form active tetramers"
+  image: none.png
+  description: The R882H DNMT3A mutation associated with AML dominantly inhibits wild-type DNMT3A by blocking its ability to form active tetramers
+  authors: Russler-Germain DA, Spencer DH, Young MA, Lamprecht TL, Miller CA, Fulton R, Meyer MR, Erdmann-Gilmore P, Townsend RR, Wilson RK, Ley TJ
+  link: 
+     url: https://doi.org/10.1016/j.ccr.2014.02.010
+     display:  Cancer Cell. 2014 Apr 14;25(4):442-54. 
+  highlight: 0
+  news2:
+
+- title: "Functional heterogeneity of genetically defined subclones in acute myeloid leukemia"
+  image: none.png
+  description: Functional heterogeneity of genetically defined subclones in acute myeloid leukemia
+  authors: Klco JM, Spencer DH, Miller CA, Griffith M, Lamprecht TL, O'Laughlin M, Fronick C, Magrini V, Demeter RT, Fulton RS, Eades WC, Link DC, Graubert TA, Walter MJ, Mardis ER, Dipersio JF, Wilson RK, Ley TJ
+  link: 
+     url: https://doi.org/10.1016/j.ccr.2014.01.031
+     display:  Cancer Cell. 2014 Mar 17;25(3):379-92. 
+  highlight: 0
+  news2:
+
+- title: "Performance of common analysis methods for detecting low-frequency single nucleotide variants in targeted next-generation sequence data"
+  image: none.png
+  description: Performance of common analysis methods for detecting low-frequency single nucleotide variants in targeted next-generation sequence data
+  authors: Spencer DH, Tyagi M, Vallania F, Bredemeyer AJ, Pfeifer JD, Mitra RD, Duncavage EJ
+  link: 
+     url: https://doi.org/10.1016/j.jmoldx.2013.09.003
+     display:  J Mol Diagn. 2014 Jan;16(1):75-88. 
+  highlight: 0
+  news2:
+
+- title: "Validation of a next-generation sequencing assay for clinical molecular oncology"
+  image: none.png
+  description: Validation of a next-generation sequencing assay for clinical molecular oncology
+  authors: Cottrell CE, Al-Kateb H, Bredemeyer AJ, Duncavage EJ, Spencer DH, Abel HJ, Lockwood CM, Hagemann IS, O'Guin SM, Burcea LC, Sawyer CS, Oschwald DM, Stratman JL, Sher DA, Johnson MR, Brown JT, Cliften PF, George B, McIntosh LD, Shrivastava S, Nguyen TT, Payton JE, Watson MA, Crosby SD, Head RD, Mitra RD, Nagarajan R, Kulkarni S, Seibert K, Virgin HW 4th, Milbrandt J, Pfeifer JD
+  link: 
+     url: https://doi.org/10.1016/j.jmoldx.2013.10.002
+     display:  J Mol Diagn. 2014 Jan;16(1):89-105. 
+  highlight: 0
+  news2:
+
+- title: "Comparison of clinical targeted next-generation sequence data from formalin-fixed and fresh-frozen tissue specimens"
+  image: none.png
+  description: Comparison of clinical targeted next-generation sequence data from formalin-fixed and fresh-frozen tissue specimens
+  authors: Spencer DH, Sehn JK, Abel HJ, Watson MA, Pfeifer JD, Duncavage EJ
+  link: 
+     url: https://doi.org/10.1016/j.jmoldx.2013.05.004
+     display:  J Mol Diagn. 2013 Sep;15(5):623-33. 
+  highlight: 0
+  news2:
+
+- title: "Genomic and epigenomic landscapes of adult de novo acute myeloid leukemia"
+  image: none.png
+  description: Genomic and epigenomic landscapes of adult de novo acute myeloid leukemia
+  authors: Ley TJ, Miller C, Ding L, Raphael BJ, Mungall AJ, Robertson A, Hoadley K, Triche TJ Jr, Laird PW, Baty JD, Fulton LL, Fulton R, Heath SE, Kalicki-Veizer J, Kandoth C, Klco JM, Koboldt DC, Kanchi KL, Kulkarni S, Lamprecht TL, Larson DE, Lin L, Lu C, McLellan MD, McMichael JF, Payton J, Schmidt H, Spencer DH, Tomasson MH, Wallis JW, Wartman LD, Watson MA, Welch J, Wendl MC, Ally A, Balasundaram M, Birol I, Butterfield Y, Chiu R, Chu A, Chuah E, Chun HJ, Corbett R, Dhalla N, Guin R, He A, Hirst C, Hirst M, Holt RA, Jones S, Karsan A, Lee D, Li HI, Marra MA, Mayo M, Moore RA, Mungall K, Parker J, Pleasance E, Plettner P, Schein J, Stoll D, Swanson L, Tam A, Thiessen N, Varhol R, Wye N, Zhao Y, Gabriel S, Getz G, Sougnez C, Zou L, Leiserson MD, Vandin F, Wu HT, Applebaum F, Baylin SB, Akbani R, Broom BM, Chen K, Motter TC, Nguyen K, Weinstein JN, Zhang N, Ferguson ML, Adams C, Black A, Bowen J, Gastier-Foster J, Grossman T, Lichtenberg T, Wise L, Davidsen T, Demchok JA, Shaw KR, Sheth M, Sofia HJ, Yang L, Downing JR, Eley G
+  link: 
+     url: https://doi.org/10.1056/NEJMoa1301689
+     display:  N Engl J Med. 2013 May 30;368(22):2059-74. 
+  highlight: 0
+  news2:
+
+- title: "Genomic impact of transient low-dose decitabine treatment on primary AML cells"
+  image: none.png
+  description: Genomic impact of transient low-dose decitabine treatment on primary AML cells
+  authors: Klco JM, Spencer DH, Lamprecht TL, Sarkaria SM, Wylie T, Magrini V, Hundal J, Walker J, Varghese N, Erdmann-Gilmore P, Lichti CF, Meyer MR, Townsend RR, Wilson RK, Mardis ER, Ley TJ
+  link: 
+     url: https://doi.org/10.1182/blood-2012-09-459313
+     display:  Blood. 2013 Feb 28;121(9):1633-43. 
+  highlight: 0
+  news2:
+
+- title: "Detection of FLT3 internal tandem duplication in targeted, short-read-length, next-generation sequencing data"
+  image: none.png
+  description: Detection of FLT3 internal tandem duplication in targeted, short-read-length, next-generation sequencing data
+  authors: Spencer DH, Abel HJ, Lockwood CM, Payton JE, Szankasi P, Kelley TW, Kulkarni S, Pfeifer JD, Duncavage EJ
+  link: 
+     url: https://doi.org/10.1016/j.jmoldx.2012.08.001
+     display:  J Mol Diagn. 2013 Jan;15(1):81-93. 
+  highlight: 0
+  news2:
+
+- title: "Direct-to-consumer genetic testing: reliable or risky?"
+  image: none.png
+  description: Direct-to-consumer genetic testing: reliable or risky?
+  authors: Spencer DH, Lockwood C, Topol E, Evans JP, Green RC, Mansfield E, Tezak Z
+  link: 
+     url: https://doi.org/10.1373/clinchem.2011.167197
+     display:  Clin Chem. 2011 Dec;57(12):1641-4. 
+  highlight: 0
+  news2:
+
+- title: "Validation and implementation of the GeneXpert MRSA/SA blood culture assay in a pediatric setting"
+  image: none.png
+  description: Validation and implementation of the GeneXpert MRSA/SA blood culture assay in a pediatric setting
+  authors: Spencer DH, Sellenriek P, Burnham CA
+  link: 
+     url: https://doi.org/10.1309/AJCP07UGYOKBVVNC
+     display:  Am J Clin Pathol. 2011 Nov;136(5):690-4. 
+  highlight: 0
+  news2:
+
+- title: "Red cell transfusion decreases hemoglobin A1c in patients with diabetes"
+  image: none.png
+  description: Red cell transfusion decreases hemoglobin A1c in patients with diabetes
+  authors: Spencer DH, Grossman BJ, Scott MG
+  link: 
+     url: https://doi.org/10.1373/clinchem.2010.157321
+     display:  Clin Chem. 2011 Feb;57(2):344-6. 
+  highlight: 0
+  news2:
+
+- title: "IFRD1 is a candidate gene for SMNA on chromosome 7q22-q23"
+  image: none.png
+  description: IFRD1 is a candidate gene for SMNA on chromosome 7q22-q23
+  authors: Brkanac Z, Spencer D, Shendure J, Robertson PD, Matsushita M, Vu T, Bird TD, Olson MV, Raskind WH
+  link: 
+     url: https://doi.org/10.1016/j.ajhg.2009.04.008
+     display:  Am J Hum Genet. 2009 May;84(5):692-7. 
+  highlight: 0
+  news2:
+
+- title: "Growth phenotypes of Pseudomonas aeruginosa lasR mutants adapted to the airways of cystic fibrosis patients"
+  image: none.png
+  description: Growth phenotypes of Pseudomonas aeruginosa lasR mutants adapted to the airways of cystic fibrosis patients
+  authors: D'Argenio DA, Wu M, Hoffman LR, Kulasekara HD, Déziel E, Smith EE, Nguyen H, Ernst RK, Larson Freeman TJ, Spencer DH, Brittnacher M, Hayden HS, Selgrade S, Klausen M, Goodlett DR, Burns JL, Ramsey BW, Miller SI
+  link: 
+     url: https://doi.org/10.1111/j.1365-2958.2007.05678.x
+     display:  Mol Microbiol. 2007 Apr;64(2):512-33. 
+  highlight: 0
+  news2:
+
+- title: "Detecting disease-causing mutations in the human genome by haplotype matching"
+  image: none.png
+  description: Detecting disease-causing mutations in the human genome by haplotype matching
+  authors: Spencer DH, Bubb KL, Olson MV
+  link: 
+     url: https://doi.org/10.1086/508757
+     display:  Am J Hum Genet. 2006 Nov;79(5):958-64. 
+  highlight: 0
+  news2:
+
+- title: "Evidence for diversifying selection at the pyoverdine locus of Pseudomonas aeruginosa"
+  image: none.png
+  description: Evidence for diversifying selection at the pyoverdine locus of Pseudomonas aeruginosa
+  authors: Smith EE, Sims EH, Spencer DH, Kaul R, Olson MV
+  link: 
+     url: https://doi.org/10.1128/JB.187.6.2138-2147.2005
+     display:  J Bacteriol. 2005 Mar;187(6):2138-47. 
+  highlight: 0
+  news2:
+
+- title: "Genome mosaicism is conserved but not unique in Pseudomonas aeruginosa isolates from the airways of young children with cystic fibrosis"
+  image: none.png
+  description: Genome mosaicism is conserved but not unique in Pseudomonas aeruginosa isolates from the airways of young children with cystic fibrosis
+  authors: Ernst RK, D'Argenio DA, Ichikawa JK, Bangera MG, Selgrade S, Burns JL, Hiatt P, McCoy K, Brittnacher M, Kas A, Spencer DH, Olson MV, Ramsey BW, Lory S, Miller SI
+  link: 
+     url: https://doi.org/10.1111/j.1462-2920.2003.00518.x
+     display:  Environ Microbiol. 2003 Dec;5(12):1341-9. 
+  highlight: 0
+  news2:
+
+- title: "Whole-genome sequence variation among multiple isolates of Pseudomonas aeruginosa"
+  image: none.png
+  description: Whole-genome sequence variation among multiple isolates of Pseudomonas aeruginosa
+  authors: Spencer DH, Kas A, Smith EE, Raymond CK, Sims EH, Hastings M, Burns JL, Kaul R, Olson MV
+  link: 
+     url: https://doi.org/10.1128/JB.185.4.1316-1325.2003
+     display:  J Bacteriol. 2003 Feb;185(4):1316-25. 
+  highlight: 0
+  news2:
+
+- title: "Genetic variation at the O-antigen biosynthetic locus in Pseudomonas aeruginosa"
+  image: none.png
+  description: Genetic variation at the O-antigen biosynthetic locus in Pseudomonas aeruginosa
+  authors: Raymond CK, Sims EH, Kas A, Spencer DH, Kutyavin TV, Ivey RG, Zhou Y, Kaul R, Clendenning JB, Olson MV
+  link: 
+     url: https://doi.org/10.1128/JB.184.13.3614-3622.2002
+     display:  J Bacteriol. 2002 Jul;184(13):3614-22. 
+  highlight: 0
+  news2:
+
+- title: "Complete genome sequence of Pseudomonas aeruginosa PAO1, an opportunistic pathogen"
+  image: none.png
+  description: Complete genome sequence of Pseudomonas aeruginosa PAO1, an opportunistic pathogen
+  authors: Stover CK, Pham XQ, Erwin AL, Mizoguchi SD, Warrener P, Hickey MJ, Brinkman FS, Hufnagle WO, Kowalik DJ, Lagrou M, Garber RL, Goltry L, Tolentino E, Westbrock-Wadman S, Yuan Y, Brody LL, Coulter SN, Folger KR, Kas A, Larbig K, Lim R, Smith K, Spencer D, Wong GK, Wu Z, Paulsen IT, Reizer J, Saier MH, Hancock RE, Lory S, Olson MV
+  link: 
+     url: https://doi.org/10.1038/35023079
+     display:  Nature. 2000 Aug 31;406(6799):959-64. 
+  highlight: 0
+  news2:
