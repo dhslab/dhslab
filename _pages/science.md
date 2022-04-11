@@ -12,7 +12,7 @@ permalink: /science/
 ![AML blasts](/images/aml.png){:width="150px"
 style="float:left; margin-right:20px; border-radius:10%"} 
 
-**Our group specializes in cancer genetics, genomics, and
+<br/>**Our group specializes in cancer genetics, genomics, and
 epigenetics with a focus on AML.** We are specifically focused on acute myeloid leukemia
 (AML), a devastating cancer that affects children and adults. Despite major
 advances in the molecular understanding of this disease, current
