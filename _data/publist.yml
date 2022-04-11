@@ -18,7 +18,7 @@
   highlight: 1
   news2: 
 
-- title:"Contribution of CTCF binding to transcriptional activity at the HOXA locus in NPM1-mutant AML cells."
+- title: "Contribution of CTCF binding to transcriptional activity at the HOXA locus in NPM1-mutant AML cells."
   image: ghasemi.leukemia.png
   description: Analysis of epigenetic patterns and 3D genome architecture at the HOXA locus in primary AML samples with NPM1 mutations and genetic manipulation of CTCF binding sites in the NPM1-mutant OCI-AML3 cell line to define the role of CTCF binding in regulating HOXA genome interactions and gene expression.
   authors: Ghasemi R, Struthers H, Wilson ER, Spencer DH.
@@ -26,3 +26,4 @@
     url: https://www.nature.com/articles/s41375-020-0856-3 
     display: Leukemia. 2021 Feb;35(2):404-416.
   highlight: 1
+  news2:
