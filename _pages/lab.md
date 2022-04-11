@@ -23,6 +23,7 @@ instruments. Most computing is done on a dedicated 128 core compute cluster
 with 1.5Tb of total memory. We also have access to two DRAGEN FPGA
 servers for hardware-accelerated genomic analysis. 
 
+### Principal Investigator
 <div class="col-sm-6 clearfix">
     <p><img src="/images/peoplepic/dave.jpg" class="img-responsive" style="float:   left" width="25%"></p>
     <h4>David H. Spencer MD, PhD <a href="/dhsbio/">(view bio)</a></h4>
@@ -33,7 +34,7 @@ servers for hardware-accelerated genomic analysis.
   </ul>
   </div>
 
-## Current members
+### Current members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -99,7 +100,7 @@ servers for hardware-accelerated genomic analysis.
 </div>
 {% endif %}
 
-## Alumni
+### Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
