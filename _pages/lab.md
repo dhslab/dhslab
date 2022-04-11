@@ -27,7 +27,7 @@ servers for hardware-accelerated genomic analysis.
 <div class="row"><div class="col-sm-6 clearfix"><p><img src="/images/peoplepic/dave.jpg" class="img-responsive" style="float: left" width="25%"></p><h4>David H. Spencer MD, PhD <a href="/dhsbio/">(view bio)</a></h4><p><i>Principal Investigator, chief troubleshooter and data wrangler</i></p>
 <ul style="overflow: hidden"><li> Assistant Professor of Medicine and Pathology and Immunology </li><li> Medical Director, McDonnell Genome Institute Clinical Sequencing Lab </li></ul></div></div>
 
-### Current members
+### Current lab members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -44,7 +44,7 @@ servers for hardware-accelerated genomic analysis.
   left" />
   {% endif %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
