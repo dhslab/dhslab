@@ -21,8 +21,6 @@ years. We aim to understand how mutations and epigenetic changes alter the struc
 and function of the genome in ways that contribute to AML development, progression,
 and relapse.
 
-<br/>
-
 ### Current research projects ###
 
 #### <it>HOX</it> gene regulation in AML ####
