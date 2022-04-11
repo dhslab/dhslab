@@ -23,7 +23,7 @@ and relapse.
 
 <br/>
 
-### Current Research projects ###
+### Current research projects ###
 
 #### <it>HOX</it> gene regulation in AML ####
 ![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
