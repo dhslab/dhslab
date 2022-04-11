@@ -55,7 +55,7 @@ permalink: /publications/
 <em>Eric J Duncavage, David H Spencer</em><br />A streamlined
 whole-genome sequencing approach for genetic profiling of cancer. (Pending) (2021)
 
-## Full List of publications
+## More publications
 
 {% for publi in site.data.publist %}
 
