@@ -1,0 +1,48 @@
+I"�<p><img src="/images/logopic/wusm.png" alt="cap" width="200px" style="float: left; border-radius:0%; padding-right:20px" /></p>
+
+<h2 id="welcome-to-the-spencer-lab">Welcome to The Spencer Lab</h2>
+
+<h4 id="the-spencer-lab-is-in-the-section-of-stem-cell-biology-in-the-division-of-oncology-in-the-department-of-medine-at-washington-university-school-of-medicine-in-st-louis">The Spencer Lab is in the Section of Stem Cell Biology in the <a href="https://oncology.wustl.edu/">Division of Oncology</a> in the <a href="https://internalmedicine.wustl.edu/">Department of Medine</a> at <a href="https://medicine.wustl.edu/">Washington University School of Medicine in St. Louis</a>.</h4>
+
+<p><br /></p>
+
+<p><img src="/images/respic/humangenome.jpg" alt="Human Genome" width="300px" style="float:right; border-radius:5%; margin-left:20px" /> <strong>Research in the Spencer lab is a combination of experimental and
+  computational science that is focused on the common theme of the
+  genetics, genomics, and epigenetics of acute
+  myeloid leukemia.</strong> We have specific expertise in DNA methylation, 3D genome architecture, and
+  HOX gene expression and regulation in AML, although we are broadly interested in
+  epigenetics and gene regulation in cancer. We also have extensive
+  experience using genomic technologies to make observations in
+  primary human samples to understand fundamental mechanisms of
+  cancer genomics.</p>
+
+<p><br /></p>
+
+<p><strong>We use a range of experimental systems and techniques in our lab, including:</strong></p>
+<ul>
+  <li>Whole-exome sequencing, whole-genome sequencing, error-corrected
+amplicon sequencing</li>
+  <li>Long read sequencing using Oxford Nanopore and PacBio Hifi platforms</li>
+  <li>ChIP-seq, RNA-seq, ATAC-seq, CUT&amp;Run, CUT&amp;Tag</li>
+  <li>in situ HiC, capture-C, HiChIP, PLAC-seq</li>
+  <li>Whole-genome bisulfite sequencing</li>
+  <li>CRISPR/Cas9 genome editing, CRISPRi epigenetic editing</li>
+  <li>CRE-seq massively parallel reporter assays</li>
+  <li>Single cell technologies</li>
+  <li>Human cell lines, human pluripotent stem cells, including NIH-approved embryonic
+  stem cells and induced pluripotent stem (iPS) cells.</li>
+  <li>Primary human AML samples</li>
+  <li>Mouse models
+<img src="/images/respic/hoxamodel.png" alt="HOXA locus" width="600px" style="display: block; margin-left: auto; margin-right: auto;" /> <br /></li>
+</ul>
+
+<p><strong>We have direct access to high-throughput sequencers and cutting edge
+genomic methods</strong> at the McDonnell Genome Institute via David’s role as
+Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicated compute cluster using
+analysis pipelines that we developed and implemented for our
+research.</p>
+
+<h4 id="visit-the-links-above-to-learn-about-our-research-check-out-our-recent-news-and-publications-meet-our-lab-learn-about-davids-clinical-role-at-wash-u-or-read-davids-bio">Visit the links above to learn about <a href="http://localhost:4000/science">our research</a>, check out <a href="http://localhost:4000/publications">our recent news and publications</a>, meet <a href="http://localhost:4000/lab">our lab</a>, learn about David’s <a href="http://localhost:4000/clinical">clinical role at Wash U</a> or read <a href="http://localhost:4000/dhsbio">David’s bio</a>.</h4>
+
+<p><strong>We currently have open positions for PhD students and Postdocs to join the team</strong> <a href="http://localhost:4000/jobs">(more info)</a> <strong>!</strong></p>
+:ET
