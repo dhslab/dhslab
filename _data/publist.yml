@@ -9,14 +9,14 @@
   news2: 
 
 - title: "Hematopoietic cell transplantation donor-derived memory-like NK cells functionally persist after transfer into patients with leukemia"
-   image: 
-   description: 
-   authors: Berrien-Elliott MM, Foltz JA, Russler-Germain DA, Neal CC, Tran J, Gang M, Wong P, Fisk B, Cubitt CC, Marin ND, Zhou AY, Jacobs MT, Foster M, Schappe T, McClain E, Kersting-Schadek S, Desai S, Pence P, Becker-Hapak M, Eisele J, Mosior M, Marsala L, Griffith OL, Griffith M, Khan SM, Spencer DH, DiPersio JF, Romee R, Uy GL, Abboud CN, Ghobadi A, Westervelt P, Stockerl-Goldstein K, Schroeder MA, Wan F, Lie WR, Soon-Shiong P, Petti AA, Cashen AF, Fehniger TA
-   link: 
-      link: https://doi.org/10.1126/scitranslmed.abm1375.
+  image: none.png
+  description: foo
+  authors: Berrien-Elliott MM, Foltz JA, Russler-Germain DA, Neal CC, Tran J, Gang M, Wong P, Fisk B, Cubitt CC, Marin ND, Zhou AY, Jacobs MT, Foster M, Schappe T, McClain E, Kersting-Schadek S, Desai S, Pence P, Becker-Hapak M, Eisele J, Mosior M, Marsala L, Griffith OL, Griffith M, Khan SM, Spencer DH, DiPersio JF, Romee R, Uy GL, Abboud CN, Ghobadi A, Westervelt P, Stockerl-Goldstein K, Schroeder MA, Wan F, Lie WR, Soon-Shiong P, Petti AA, Cashen AF, Fehniger TA
+  link: 
+      link: https://doi.org/10.1126/scitranslmed.abm1375
       display: Sci Transl Med. 2022 Feb 23;14(633):eabm1375
-   highlight: 0
-   news2:
+  highlight: 0
+  news2:
    
 - title: "Genome Sequencing as an Alternative to Cytogenetic Analysis in Myeloid Cancers."
   image: duncavagenejm.png
