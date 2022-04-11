@@ -8,7 +8,7 @@ permalink: /science/
 
 ## Science
 
-#### The Spencer lab studies the organization and function of the human genome and how altered genome function contributes to acute myeloid leukemia and other cancers. ####
+#### The Spencer lab studies the organization and function of the human genome and how altered genome function contributes to acute myeloid leukemia. ####
 ![AML blasts](/images/aml.png){:width="150px"
 style="float:left; margin-right:20px; border-radius:10%"} 
 
