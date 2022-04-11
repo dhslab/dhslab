@@ -23,7 +23,8 @@ and relapse.
 
 ### Current research projects ###
 
-#### <it>HOX</it> gene regulation in AML ####
+#### HOX gene regulation in AML ####
+
 ![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
  style="float:right"} *HOX* genes are conserved
 transcription factors first discovered in *Drosophila*  that regulate normal
