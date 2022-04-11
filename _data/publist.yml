@@ -1,5 +1,5 @@
 - title: "Focal disruption of DNA methylation dynamics at enhancers in IDH-mutant AML cells"
-  image: WilsonER.Leukemia.png
+  image: wilsoner.leukemia.png
   description: Comprehensive analysis of DNA methylation in primary AML samples with mutations in IDH1 and IDH2 demonstrated focal hypermethylation at regulatory enhancers, which may contribute to AML pathogenesis.
   authors: Wilson ER, Helton NM, Heath SE, Fulton RS, Payton JE, Welch JS, Walter MJ, Westervelt P, DiPersio JF, Link DC, Miller CA, Ley TJ, Spencer DH
   link:
@@ -7,3 +7,22 @@
     display: Leukemia. 2022 Apr;36(4):935-945
   highlight: 1
   news2: 
+
+- title: "Genome Sequencing as an Alternative to Cytogenetic Analysis in Myeloid Cancers."
+  image: duncavagenejm.png
+  description: Streamlined whole-genome sequencing for rapid, accurate, and acccessible genomic profiling of patients with AML and MDS.
+  authors: Duncavage EJ, Schroeder MC, O'Laughlin M, Wilson R, MacMillan S, Bohannon A, Kruchowski S, Garza J, Du F, Hughes AEO, Robinson J, Hughes E, Heath SE, Baty JD, Neidich J, Christopher MJ, Jacoby MA, Uy GL, Fulton RS, Miller CA, Payton JE, Link DC, Walter MJ, Westervelt P, DiPersio JF, Ley TJ, Spencer DH.
+  link:
+    url: https://www.nejm.org/doi/full/10.1056/NEJMoa2024534
+    display: N Engl J Med. 2021 Mar 11;384(10):924-935.
+  highlight: 1
+  news2: 
+
+- title:"Contribution of CTCF binding to transcriptional activity at the HOXA locus in NPM1-mutant AML cells."
+  image: ghasemi.leukemia.png
+  description: Analysis of epigenetic patterns and 3D genome architecture at the HOXA locus in primary AML samples with NPM1 mutations and genetic manipulation of CTCF binding sites in the NPM1-mutant OCI-AML3 cell line to define the role of CTCF binding in regulating HOXA genome interactions and gene expression.
+  authors: Ghasemi R, Struthers H, Wilson ER, Spencer DH.
+  link:
+    url: https://www.nature.com/articles/s41375-020-0856-3 
+    display: Leukemia. 2021 Feb;35(2):404-416.
+  highlight: 1
