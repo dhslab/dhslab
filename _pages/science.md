@@ -53,7 +53,7 @@ expression in AML.
 
 ![IDH enhancers](/images/respic/idhenhancers.png){:width="300px"
  style="float:left"} 
-#### Relationships between DNA methylation and 3D genome architecture in AML cells
+#### DNA methylation and 3D genome architecture in AML cells
 DNA methylation is the most commonly
    mutated pathway in AML. DNMT3A mutations result in hypomethylation and
    mutations in IDH1, IDH2, and TET2. We have chacterized the DNA methylation phenotype
