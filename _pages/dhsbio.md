@@ -8,21 +8,14 @@ permalink: /dhsbio/
 
 ## David H. Spencer MD, PhD
 
-![Dave](/images/peoplepic/dave.jpg){:width="200px" style="float:left padding-right:20px"}
-  David is from Iowa City, Iowa. He attended Iowa City City High
-  School where he played soccer and was introduced to genetic
-  research through a program that placed high school students in
-  research labs at the University of Iowa. He first worked for
-  geneticist Brian Schutte, PhD, and later spent two summers in the lab of Jeff Murray,
-  MD, where he was introduced to DNA sequencing and the human genome
-  project. After high school David left Iowa for Seattle, Washington
-  to attend college at the University of Washington. He earned a
-  B.S. in Biochemistry and worked for four years in the UW Genome
-  Center studying the genome of the opportunistic gram-negative
-  bacterial pathogen, Pseudomonas aeruginosa. After graduating, David
-  spent one year as a Research Technician in the lab of genome mapping
-  pioneer Maynard V. Olson, PhD before joining the UW MSTP training
-  program. His graduate studies took place in the new Department of Genome
+![Dave](/images/peoplepic/dave.jpg){:width="200px" style="float:left
+padding-right:20px"} David is from Iowa City, Iowa. He attended Iowa City City High
+School where he played soccer and was introduced to genetic research through a program that placed high school students in research labs at the University of Iowa. He first worked for  geneticist Brian Schutte, PhD, and later spent two summers in the lab of Jeff Murray,MD, where he was introduced to DNA sequencing and the human genome project. After high school David left Iowa for Seattle, Washington
+to attend college at the University of Washington. He earned a  B.S. in Biochemistry and worked for four years in the UW Genome
+Center studying the genome of the opportunistic gram-negative
+bacterial pathogen, Pseudomonas aeruginosa. After graduating, David
+spent one year as a Research Technician in the lab of genome mapping pioneer Maynard V. Olson, PhD before joining the UW MSTP training
+program. His graduate studies took place in the new Department of Genome
   Sciences that was formed from the Departments of Genetics and
   Molecular Biotechnology with co-mentors Maynard and fellow human
   genome pioneer Bob Waterston. His thesis work was on the development
