@@ -25,7 +25,7 @@ and relapse.
 
 #### HOX gene regulation in AML ####
 
-![HOXA interactions](/images/respic/hoxainteractions.png){:width="400px"
+![HOXA interactions](/images/respic/hoxainteractions.png){:width="300px"
  style="float:right"} *HOX* genes are conserved
 transcription factors first discovered in *Drosophila*  that regulate normal
 self-renewal in mammalian hematopoietic cells and are highly expressed
@@ -51,7 +51,7 @@ parallel reporter assays in cell lines and primary AML samples to
 define the cis-acting regulatory sequences that are critical for HOXA
 expression in AML.
 
-![IDH enhancers](/images/respic/idhenhancers.png){:width="400px"
+![IDH enhancers](/images/respic/idhenhancers.png){:width="300px"
  style="float:left"} 
 #### Relationships between DNA methylation and 3D genome architecture in AML cells
 DNA methylation is the most commonly
