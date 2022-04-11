@@ -86,7 +86,7 @@ incorporate NGS testing into their research and/or clinical practice.
   clinical interpretation is performed in the [Laboratory and Genomic Medicine](https://pathology.wustl.edu/divisions/lgm/) Division in the
   [Department of Pathology and Immunology](https://pathology.wustl.edu/).
   
-#### Clinical sequencing assays in the MGI-CLE are available for patient care through either the
+Clinical sequencing assays in the MGI-CLE are available for patient care through either the
 [AMP Core Labs](https://pathology.wustl.edu/research/core-facilities/anatomic-molecular-pathology-core-lab/)in
 the
 [Anatomic and Molecular Pathology](https://pathology.wustl.edu/divisions/amp/)
@@ -94,9 +94,8 @@ Divsion or the
 [Laboratory and Genomic Medicine](https://pathology.wustl.edu/divisions/lgm/)
 Division in the
 [Department of Pathology and Immunology](https://pathology.wustl.edu/).
-####
 
 David is Technical Director of the AMP Core Labs and works with faculty and
 staff in the AMP division to manage the 'NGS
 distributed testing' workflow for cancer testing testing performed in
-the MGI-CLE lab.####
+the MGI-CLE lab.
