@@ -27,7 +27,7 @@ servers for hardware-accelerated genomic analysis.
 <div class="col-sm-6 clearfix">
     <p><img src="/images/peoplepic/dave.jpg" class="img-responsive" style="float:   left" width="25%"></p>
     <h4>David H. Spencer MD, PhD <a href="/dhsbio/">(view bio)</a></h4>
-    <p><i>Principal Investigator, chief troubleshooter and data wrangler <!--<br>email: <dspencerlab@gmail.com></i> --></i></p>
+    <p><i>Principal Investigator, chief troubleshooter and data wrangler</i></p>
     <ul style="overflow: hidden">
   <li> Assistant Professor of Medicine and Pathology and Immunology </li>
   <li> Medical Director, McDonnell Genome Institute Clinical Sequencing Lab </li>
