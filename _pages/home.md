@@ -42,12 +42,6 @@ style="float: left; border-radius:0%; padding-right:20px"}
 ![HOXA locus](/images/respic/hoxamodel.png){:width="600px"
 style="display: block; margin-left: auto; margin-right: auto;"} <br/>
 
-**We have direct access to high-throughput sequencers and cutting edge
-genomic methods** at the McDonnell Genome Institute via David's role as
-Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicated compute cluster using
-analysis pipelines that we developed and implemented for our
-research.
-
 #### Visit the links above to learn about [our research]({{ site.url }}{{ site.baseurl }}/science), check out [our recent news and publications]({{ site.url }}{{ site.baseurl }}/publications), meet [our lab]({{ site.url }}{{ site.baseurl }}/lab), learn about David's [clinical role at Wash U]({{ site.url }}{{ site.baseurl }}/clinical) or read [David's bio]({{ site.url }}{{ site.baseurl }}/dhsbio).
 
 **We currently have open positions for PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
