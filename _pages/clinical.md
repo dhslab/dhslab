@@ -15,7 +15,7 @@ and the [Department of Pathology and Immunology](https://pathology.wustl.edu/)
 have developed and implemented multiple advanced clinical
 sequencing assays for both translational research and patient care.
 
-![cap](/images/logopic/cap.png){:width="250px"} ![clia](/images/logopic/clia.png){:width="250px"}
+<div style="display:block; margin-left:auto; margin-right:auto;"> ![cap](/images/logopic/cap.png){:width="250px"} ![clia](/images/logopic/clia.png){:width="250px"}</div>
 
 **In his role as Medical Director, David oversees the design,
 development, and implementation of all NGS assays in the MGI Clinical
@@ -27,7 +27,7 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
- ![chromoseq](/images/respic/chromoseq.png){:width="175px"
+ ![chromoseq](/images/respic/chromoseq.png){:width="20%"
    class="img-responsive" style="float: left; padding-right: 10px"} **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive
@@ -49,7 +49,7 @@ incorporate NGS testing into their research and/or clinical practice.
   executed via Cromwell.
 
 
- ![amlclearance](/images/respic/amlclearance.png){:height="100px" class="img-responsive" style="float: right"} **AML Clearance Exome Sequencing:** This assay uses deep exome
+ ![amlclearance](/images/respic/amlclearance.png){:width="25%" class="img-responsive" style="float: right"} **AML Clearance Exome Sequencing:** This assay uses deep exome
   sequencing to identify dozens of mutations in the leukemia cells of
   AML patients at diagnosis, and then test whether these
   patient-specific mutations are present in exome sequencing data from
