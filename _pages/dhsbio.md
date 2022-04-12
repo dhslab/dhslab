@@ -19,38 +19,40 @@ to attend college at the University of Washington. He earned a  B.S. in Biochemi
 Center studying the genome of the opportunistic gram-negative
 bacterial pathogen, *Pseudomonas aeruginosa* , where he was a
 co-author on the paper describing the *Pseudomonas* [reference genome](https://pubmed.ncbi.nlm.nih.gov/10984043/),
-and sequencing and comparative analysis of isolates collected from [evironmental
+and lead author of a study that used genome sequencing to compare *Pseudomonas* isolates collected from [evironmental
 sources and patients with cystic fibrosis](https://pubmed.ncbi.nlm.nih.gov/12562802/). After graduating, David
-spent one year as a Research Technician in the lab of genome mapping pioneer Maynard V. Olson PhD before joining the UW MSTP training
-program. His graduate studies took place in the new [Department of Genome
+spent one year as a Research Technician in the lab of genome mapping
+pioneer [Maynard V. Olson PhD](https://en.wikipedia.org/wiki/Maynard_Olson)
+before joining the UW MSTP training program. His graduate studies took place in the new [Department of Genome
   Sciences](https://www.gs.washington.edu/) that was formed from the Departments of Genetics and
   Molecular Biotechnology with co-mentors Maynard and fellow human
-  genome pioneer Bob Waterston (both of whom came to the UW from the
+  genome pioneer
+  [Bob Waterston](https://en.wikipedia.org/wiki/Bob_Waterston) (both of whom came to the UW from the
   Department of Genetics at Wash
   U). David's thesis work was on the development
   and application of methods to sequence and analyze large regions of
   the human genome. This included developing an efficient method for
   [identifying potentially pathogenic mutations](https://pubmed.ncbi.nlm.nih.gov/17033972/)
-  using principles of population genetics (Kingman's coalescent), and
+  using principles of population genetics, and
   one of the first studies to use [hybridization-capture to identify disease-causing mutations](https://pubmed.ncbi.nlm.nih.gov/19409521/) in the
   human genome. After completing his MD and PhD, David and his family
   moved to St. Louis for residency training in Clinical Pathology and
   a fellowship in Molecular Genetic Pathology at Washington
-  University/Barnes-Jewish Hospital in St. Louis, Missouri. During
-  this training, David helped to develop one of the first [clinical NGS
+  University/Barnes-Jewish Hospital in St. Louis, Missouri. There David helped to develop one of the first [clinical NGS
   assays](https://pubmed.ncbi.nlm.nih.gov/24211365/) for detecting cancer mutations. Following residency and
   fellowship, he did post-doctoral research in the laboratory of
   renowned cancer biologist Tim Ley, where he studied the genomics and
   epigenomics of acute myeloid leukemia (AML). He led studies that
   defined the effects of [decitabine treatment on DNA methylation](https://pubmed.ncbi.nlm.nih.gov/23297133/) in
   primary AML samples, identified [functional differences between AML
-  subclones](https://pubmed.ncbi.nlm.nih.gov/24613412/), investigated the mechanism involved in [HOX gene
+  subclones](https://pubmed.ncbi.nlm.nih.gov/24613412/), investigated
+  the epigenetic mechanisms involved in [HOX gene
   regulation in normal hematopoiesis and AML](https://pubmed.ncbi.nlm.nih.gov/25600023/), and characterized the
   landscape of [DNA methylation changes](https://pubmed.ncbi.nlm.nih.gov/28215704/) that occur in primary AML
   samples with mutations in the de novo DNA methyltransferase DNMT3A.
 
-David started his own lab at Wash U in 2016 that is focused on improving the
-genetic diagnosis of AML and our understanding of its molecular
+David started his own lab at Wash U in 2016. The overarching goal of
+his research is to improve the genetic diagnosis of AML and our understanding of its molecular
 pathogenesis at the level of the genome. His lab studies the
 regulation of the HOX gene family and how the chromatin regulator CTCF
 organizes the three-dimensional structure of the HOX locus and
