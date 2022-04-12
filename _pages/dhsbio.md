@@ -12,9 +12,9 @@ permalink: /dhsbio/
 margin-right:20px;"} David is from Iowa City, Iowa. He attended Iowa City City High
 School where he played soccer and was introduced to human genetics
 through a program that placed high school students in research labs at
-the University of Iowa. He first worked for  geneticist Brian Schutte
+the University of Iowa. He worked for geneticist Brian Schutte
 PhD, and later spent two summers in the lab of Jeff Murray MD, where
-he first learned how sequence DNA and heard about the human genome project. After high school, David left Iowa for Seattle, Washington
+he first learned how to sequence DNA and heard about the human genome project. After high school, David left Iowa for Seattle, Washington
 to attend college at the University of Washington. He earned a  B.S. in Biochemistry and worked for four years in the UW Genome
 Center studying the genome of the opportunistic gram-negative
 bacterial pathogen, *Pseudomonas aeruginosa* , where he was a
