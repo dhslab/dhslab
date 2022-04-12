@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-![cap](/images/logopic/wusm.png){:width="200px"
-style="float: left; border-radius:0%; padding-right:20px"}
+![cap](/images/logopic/wusm.png){:width="width:25%"
+style="float: left; border-radius:0%; padding-right:5%"}
 
 ## Welcome to The Spencer Lab ##
 
