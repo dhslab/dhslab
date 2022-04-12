@@ -5,10 +5,9 @@ excerpt: "Spencer Lab at Washington University in St. Louis."
 sitemap: false
 permalink: /
 ---
-
-## Welcome to The Spencer Lab ##
-![cap](/images/logopic/wusm.png){:width="225px"
+![cap](/images/logopic/wusm.png){:width="250px"
 style="float: left; border-radius:0%; padding-right:20px"}
+## Welcome to The Spencer Lab ##
 #### The Spencer Lab is in the Section of Stem Cell Biology in the [Division of Oncology](https://oncology.wustl.edu/) in the [Department of Medine](https://internalmedicine.wustl.edu/) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ####
 
 <br/>
