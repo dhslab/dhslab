@@ -10,8 +10,6 @@ style="float: left; border-radius:0%; padding-right:10px"}
 ## Welcome to The Spencer Lab ##
 #### The Spencer Lab is in the Section of Stem Cell Biology in the [Division of Oncology](https://oncology.wustl.edu/) in the [Department of Medine](https://internalmedicine.wustl.edu/) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ####
 
-<br/>
-
 ![Human Genome](/images/respic/humangenome.jpg){:width="25%"
   id="" style="float:right; border-radius:5%; margin-left:20px"} **Research in the Spencer lab is a combination of experimental and
   computational science that is focused on the common theme of the
@@ -22,8 +20,6 @@ style="float: left; border-radius:0%; padding-right:10px"}
   experience using genomic technologies to make observations in
   primary human samples to understand fundamental mechanisms of
   cancer genomics.
-
-<br/>
 
 **We use a range of experimental systems and techniques in our lab, including:**
   * Whole-exome sequencing, whole-genome sequencing, error-corrected
