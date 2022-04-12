@@ -48,8 +48,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
 
 ## Patents
 <em>Eric J Duncavage, David H Spencer</em><br />A streamlined
