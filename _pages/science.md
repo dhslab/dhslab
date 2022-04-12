@@ -9,7 +9,7 @@ permalink: /science/
 ## Science
 
 #### The Spencer lab studies the organization and function of the human genome and how altered genome function contributes to acute myeloid leukemia. ####
-![AML blasts](/images/aml.png){:width="20%"
+![AML blasts](/images/aml.png){:width="15%"
 style="float:left; margin-right:20px; border-radius:10%"} 
 **Our group specializes in cancer genetics, genomics, and
 epigenetics with a focus on AML.** We are specifically focused on acute myeloid leukemia
@@ -24,7 +24,7 @@ and relapse.
 
 #### HOX gene regulation in AML ####
 
-![HOXA interactions](/images/respic/hoxainteractions.png){:width="25%"
+![HOXA interactions](/images/respic/hoxainteractions.png){:width="35%"
  style="float:right"} *HOX* genes are conserved
 transcription factors first discovered in *Drosophila*  that regulate normal
 self-renewal in mammalian hematopoietic cells and are highly expressed
@@ -52,7 +52,7 @@ expression in AML.
 
 <br/>
 
-![IDH enhancers](/images/respic/idhenhancers.png){:width="25%"
+![IDH enhancers](/images/respic/idhenhancers.png){:width="35%"
  style="float:left"} 
 #### DNA methylation and 3D genome architecture in AML cells
 DNA methylation is the most commonly
