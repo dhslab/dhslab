@@ -22,7 +22,7 @@ program. His graduate studies took place in the new Department of Genome
   and application of methods to sequence and analyze large regions of
   the human genome and included one of the first uses of
   hybridization-capture to identify disease-causing mutations in the
-  human genome. After completing is MD and PhD, David and his family
+  human genome. After completing his MD and PhD, David and his family
   moved to St. Louis for residency training in Clinical Pathology and
   a fellowship in Molecular Genetic Pathology at Washington
   University/Barnes-Jewish Hospital in St. Louis, Missouri, during
@@ -47,8 +47,7 @@ influences functional interactions with regulatory enhancers in normal
 hematopoietic cells and in AML. He also studies patterns of DNA
 methylation in AML and how these changes relate to recurrent
 mutations, and the mechanisms by which altered DNA methylation
-influences genome architecture and gene regulation. Dr. Spencer
-directs the CLIA-Licensed Environment clinical sequencing laboratory,
+influences genome architecture and gene regulation. David directs the CLIA-Licensed Environment clinical sequencing laboratory,
 which supports clinical trials involving sequencing of tumor samples,
 including AML. The laboratory also performs sequencing of patient
 samples for clinical tests available at Washington University,
