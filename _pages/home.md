@@ -5,7 +5,7 @@ excerpt: "Spencer Lab at Washington University in St. Louis."
 sitemap: false
 permalink: /
 ---
-![cap](/images/logopic/wusm.png){:width="25%"
+![cap](/images/logopic/wusm.png){:width="30%"
 style="float: left; border-radius:0%; padding-right:20px"}
 ## Welcome to The Spencer Lab ##
 #### The Spencer Lab is in the Section of Stem Cell Biology in the [Division of Oncology](https://oncology.wustl.edu/) in the [Department of Medine](https://internalmedicine.wustl.edu/) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ####
@@ -39,7 +39,7 @@ style="float: left; border-radius:0%; padding-right:20px"}
   stem cells and induced pluripotent stem (iPS) cells.
   * Primary human AML samples
   * Mouse models
-![HOXA locus](/images/respic/hoxamodel.png){:width="45%"
+![HOXA locus](/images/respic/hoxamodel.png){:width="75%"
 style="display: block; margin-left: auto; margin-right: auto;"} <br/>
 
 #### Visit the links above to learn about [our research]({{ site.url }}{{ site.baseurl }}/science), check out [our recent news and publications]({{ site.url }}{{ site.baseurl }}/publications), meet [our lab]({{ site.url }}{{ site.baseurl }}/lab), learn about David's [clinical role at Wash U]({{ site.url }}{{ site.baseurl }}/clinical) or read [David's bio]({{ site.url }}{{ site.baseurl }}/dhsbio).
