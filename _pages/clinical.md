@@ -27,7 +27,7 @@ incorporate NGS testing into their research and/or clinical practice.
 
 ### Current CLIA-compliant NGS assays
 
- ![chromoseq](/images/respic/chromoseq.png){:width="125px"
+ ![chromoseq](/images/respic/chromoseq.png){:width="175px"
    class="img-responsive" style="float: left; padding-right: 10px"} **ChromoSeq:** Streamlined
    whole-genome sequencing for cancers. Dr. Spencer and his colleagues Dr. Molly Schroeder and
    Dr. Eric Duncavage developed this assay to provide comprehensive

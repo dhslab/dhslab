@@ -5,17 +5,21 @@ excerpt: "Spencer Lab at Washington University in St. Louis."
 sitemap: false
 permalink: /
 ---
+<<<<<<< HEAD
 
 ![cap](/images/logopic/wusm.png){:width="width:25%"
 style="float: left; border-radius:0%; padding-right:5%"}
 
+=======
+![cap](/images/logopic/wusm.png){:width="30%"
+style="float: left; border-radius:0%; padding-right:20px"}
+>>>>>>> ed25331f1dcae158c0da81891091c704619e491f
 ## Welcome to The Spencer Lab ##
-
 #### The Spencer Lab is in the Section of Stem Cell Biology in the [Division of Oncology](https://oncology.wustl.edu/) in the [Department of Medine](https://internalmedicine.wustl.edu/) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/). ####
 
 <br/>
 
-![Human Genome](/images/respic/humangenome.jpg){:width="300px"
+![Human Genome](/images/respic/humangenome.jpg){:width="25%"
   id="" style="float:right; border-radius:5%; margin-left:20px"} **Research in the Spencer lab is a combination of experimental and
   computational science that is focused on the common theme of the
   genetics, genomics, and epigenetics of acute
@@ -42,14 +46,8 @@ style="float: left; border-radius:0%; padding-right:5%"}
   stem cells and induced pluripotent stem (iPS) cells.
   * Primary human AML samples
   * Mouse models
-![HOXA locus](/images/respic/hoxamodel.png){:width="600px"
+![HOXA locus](/images/respic/hoxamodel.png){:width="75%"
 style="display: block; margin-left: auto; margin-right: auto;"} <br/>
-
-**We have direct access to high-throughput sequencers and cutting edge
-genomic methods** at the McDonnell Genome Institute via David's role as
-Medical Director of the CLIA sequencing lab. We perform our own data analysis on a dedicated compute cluster using
-analysis pipelines that we developed and implemented for our
-research.
 
 #### Visit the links above to learn about [our research]({{ site.url }}{{ site.baseurl }}/science), check out [our recent news and publications]({{ site.url }}{{ site.baseurl }}/publications), meet [our lab]({{ site.url }}{{ site.baseurl }}/lab), learn about David's [clinical role at Wash U]({{ site.url }}{{ site.baseurl }}/clinical) or read [David's bio]({{ site.url }}{{ site.baseurl }}/dhsbio).
 
