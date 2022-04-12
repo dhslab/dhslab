@@ -15,9 +15,7 @@ and the [Department of Pathology and Immunology](https://pathology.wustl.edu/)
 have developed and implemented multiple advanced clinical
 sequencing assays for both translational research and patient care.
 
-<div style="display:block; width:"80%"; margin-left:auto; margin-right:auto;">
-![cap](/images/logopic/cap.png){:width="50%"}
-![clia](/images/logopic/clia.png){:width="50%"} </div>
+![cap](/images/logopic/cap.png){:width="20%"} ![clia](/images/logopic/clia.png){:width="20%"}
 
 **In his role as Medical Director, David oversees the design,
 development, and implementation of all NGS assays in the MGI Clinical
