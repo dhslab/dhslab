@@ -5,14 +5,14 @@
   number_educ: 0
   education1:
 
-- name: Reza Ghasemi, PhD
-  photo: reza.JPG
-  info: Staff Scientist, CRISPR and HiC expert
+- name: Mohamed Mohamed (Maghoub) MD, PhD
+  photo: mohamed.jpg
+  info: Post-doc and new lab member!
   email: 
   number_educ: 3
-  education1: Medical Genetics in Iran
-  education2: PhD in Italy
-  education3: Post-doc in the Spencer lab studying 3D genome architecture at the <it>HOXA</it> locus
+  education1: Medicine in Sudan
+  education2: PhD in Japan
+  education3: Post-doc at the NIH studying meiosis in mice
 
 - name: Ellie Wilson
   photo: ellie.JPG
