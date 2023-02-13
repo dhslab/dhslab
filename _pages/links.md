@@ -8,7 +8,7 @@ permalink: /links/
 
 ## hg38 genome with U2AF1 patch (see this [paper](https://pubmed.ncbi.nlm.nih.gov/35041928/))
 
-For loading in IGV:
+For loading in IGV (copy link and then load via the Genomes -> Load Genome From URL menubar):
 
 [https://davidspencerlab.s3.us-east-2.amazonaws.com/pub/hg38_mgi_patch.json](https://davidspencerlab.s3.us-east-2.amazonaws.com/pub/hg38_mgi_patch.json)
 
