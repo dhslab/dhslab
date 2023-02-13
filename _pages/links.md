@@ -1,9 +1,9 @@
 ---
-title: "Ley lab shiny app index"
+title: "Spencer lab links"
 layout: textlay
-excerpt: "List of Ley lab shiny apps"
+excerpt: "Spencer lab links"
 sitemap: false
-permalink: /leyshiny/
+permalink: /links/
 ---
 
 ## hg38 genome with U2AF1 patch (see this [paper](https://pubmed.ncbi.nlm.nih.gov/35041928/))
