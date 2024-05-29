@@ -7,28 +7,20 @@
 
 - name: Mohamed Mohamed (Maghoub) MD, PhD
   photo: mohamed.jpg
-  info: Post-doc and new lab member!
+  info: Post-doc/Staff Scientist, CUT&Run expert and Nextflow evangelist
   email: 
   number_educ: 3
   education1: Medicine in Sudan
   education2: PhD in Japan
   education3: Post-doc at the NIH studying meiosis in mice
 
-- name: Ellie Wilson
-  photo: ellie.JPG
-  info: Graduate student, DNA methylation expert and local food guru
+- name: Emilee Kotnik
+  photo: ekotnik.png
+  info: Post-doc, 
   email: 
   number_educ: 2
-  education1: BA in Biology, Carleton College, Northfield, MN
-  education2: Internship at Hematologics, Inc. in Seattle, WA
-
-- name: Alex Miller
-  photo: 
-  info: Bioinformatics Research Assistant, Texan
-  email: 
-  number_educ: 2
-  education1: BS in Economics, University of Houston, Houston, TX
-  education2: MS in Bioengineering, Boston University, Boston, MA
+  education1: BS, University of Michigan, Ann Arbor, MI
+  education2: PhD in Molecular Genetics and Genomics, Washington University in St. Louis, St. Louis, MO
 
 - name: Feiyu Du
   photo: 
@@ -38,10 +30,10 @@
   education1: BS in Biology and MS in Microbiology, Wuhan University, Wuhan, China
   education2: MS in Food Science, University of Missouri, Columbia, MO
 
-- name: Charles Lu
+- name: Nidhi Davarapalli
   photo: 
-  info: Wash U Undergraduate student
+  info: Bioinformatics scientist, 
   email: 
-  number_educ: 0
-  education1: 
-  education2: 
+  number_educ: 2
+  education1: BA in Biology, Carleton College, Northfield, MN
+  education2: Internship at Hematologics, Inc. in Seattle, WA
